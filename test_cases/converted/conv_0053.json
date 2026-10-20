@@ -1,0 +1,13 @@
+{
+  "id": "conv_0053",
+  "headers": {
+    "from": "compliance@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Reminder: Q3 Ethics Acknowledgement",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Good Morning,\nReminder to complete the Q3 ethics acknowledgement in the compliance tracker by Friday.\nThank you,\nCompliance Operations\nAttachment: Q3_Ethics_Acknowledgement_Form.pdf",
+  "links": [],
+  "attachments": []
+}

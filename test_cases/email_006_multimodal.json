@@ -1,0 +1,18 @@
+{
+  "id": "email_006",
+  "headers": {
+    "from": "no-reply@micr0soft.com",
+    "to": "employee@company.com",
+    "subject": "Microsoft 365: 检测到异常登录，请验证",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "尊敬的用户：我们检测到你的 Microsoft 365 账号在新设备登录。请立即点击下方链接验证身份，否则账号将被临时冻结。http://bit.ly/verify",
+  "links": [
+    {"original": "http://bit.ly/verify", "resolved": "http://203.0.113.77/owa/auth.owa"}
+  ],
+  "attachments": [
+    {"filename": "microsoft_logo_fake.png", "hash": "c0ffee998877"},
+    {"filename": "login_qrcode.png", "hash": "001122334455"}
+  ]
+}

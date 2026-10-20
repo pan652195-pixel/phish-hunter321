@@ -1,0 +1,13 @@
+{
+  "id": "conv_0008",
+  "headers": {
+    "from": "facilities@nebulon-facilities.com",
+    "to": "employee@company.com",
+    "subject": "Badge Access – Building 9 Lab (Request Clarification)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Marcos,\nWe received your request for Building 9 Lab access. Before we route it for approval, can you confirm the access window you need (start/end date) and which rooms (9-210, 9-212, or both)?\nOnce you reply, we’ll submit the ticket to Security for provisioning.\nThanks,\nFacilities Service Desk",
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conv_0027",
+  "headers": {
+    "from": "internal.it.services@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Scheduled Maintenance: Time-Series Archive (Read-Only Window)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nMaintenance is scheduled tonight. If you experience access issues, install the attached 'connectivity patch' before 6 PM to avoid session failures.\nIT Services\nAttachment: Nebulon_Access_Patch_2025.msi",
+  "links": [],
+  "attachments": []
+}

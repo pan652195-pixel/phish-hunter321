@@ -1,0 +1,13 @@
+{
+  "id": "conv_0037",
+  "headers": {
+    "from": "tracking@fright-appointments.com",
+    "to": "employee@company.com",
+    "subject": "Delivery Scheduled – PO NBL-10988 (Dock Appointment)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Hannah,\nYour dock appointment request is pending confirmation. Open the attached confirmation to finalize the time window.\nThank you,\nFreight Appointments\nAttachment: Dock_Appointment_Confirmation_NBL-10988.pdf",
+  "links": [],
+  "attachments": []
+}

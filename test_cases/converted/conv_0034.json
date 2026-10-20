@@ -1,0 +1,13 @@
+{
+  "id": "conv_0034",
+  "headers": {
+    "from": "finance.ops@nebulon-finance.com",
+    "to": "employee@company.com",
+    "subject": "Q2 Reconciliation Spreadsheet – Updated Version",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Elena,\nPlease see the updated reconciliation sheet attached. It includes the vendor code changes requested on yesterday’s call.\nMake sure to review before noon so we can close the batch.\nThanks,\nFinance Ops\nAttachment: Q2_Reconciliation_Updated.xlsm",
+  "links": [],
+  "attachments": []
+}

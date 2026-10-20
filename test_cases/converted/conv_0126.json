@@ -1,0 +1,13 @@
+{
+  "id": "conv_0126",
+  "headers": {
+    "from": "internal.it.services@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Patch Window – SCADA Workstations (Schedule Attached)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi all,\nWe’re applying the monthly patch bundle to SCADA workstations this Friday from 7:00–9:00 PM MDT. If you have a system that must remain online, reply with the hostname and we’ll coordinate an alternate window.\nThanks,\nIT Services\nAttachment: SCADA_Patch_Window_Schedule_Oct2026.pdf",
+  "links": [],
+  "attachments": []
+}

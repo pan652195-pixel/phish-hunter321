@@ -1,0 +1,15 @@
+{
+  "id": "email_002",
+  "headers": {
+    "from": "hr@company.com",
+    "to": "employee@company.com",
+    "subject": "Q3 考勤提醒 - 本周五日结",
+    "spf_result": "pass",
+    "dkim_result": "pass"
+  },
+  "body_text": "各位同事：请在本周五 18:00 前完成 Q3 考勤打卡核对，如有异常请联系 HR 小王。内部链接：https://partner-portal.io/attendance 。祝工作顺利。",
+  "links": [
+    {"original": "https://partner-portal.io/attendance", "resolved": "https://partner-portal.io/attendance"}
+  ],
+  "attachments": []
+}

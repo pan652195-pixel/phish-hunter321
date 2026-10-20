@@ -1,0 +1,13 @@
+{
+  "id": "conv_0018",
+  "headers": {
+    "from": "sharepoint@nebulon-sharepoint-access.com",
+    "to": "employee@company.com",
+    "subject": "Shared Folder Permissions Updated – GridOps Q2",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Maya,\nFYI—your access to the GridOps Q2 shared folder was updated to include edit permissions. No further action needed.\nThanks,\nNebulon Share Services",
+  "links": [],
+  "attachments": []
+}

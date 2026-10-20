@@ -1,0 +1,18 @@
+{
+  "id": "conv_0110",
+  "headers": {
+    "from": "noreply@giftcard-rewards.com",
+    "to": "employee@company.com",
+    "subject": "Final Notice: Gift Card Reward Verification",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nYour gift card reward is pending verification. Verify your account to release the reward:\nhttps://giftcard-rewards[.]com/release?token=Q2X17K4\nFailure to verify today will cancel the reward.\nRewards Team",
+  "links": [
+    {
+      "original": "https://giftcard-rewards[.]com/release?token=Q2X17K4",
+      "resolved": "https://giftcard-rewards[.]com/release?token=Q2X17K4"
+    }
+  ],
+  "attachments": []
+}

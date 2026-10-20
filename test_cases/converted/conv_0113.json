@@ -1,0 +1,18 @@
+{
+  "id": "conv_0113",
+  "headers": {
+    "from": "manager.notifications@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Action Needed: Approve Direct Report Timecards",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Daniel,\nYou have 2 direct report timecards awaiting approval for the current pay period. Please approve when you have time so payroll can process on schedule: https://payroll.nebulon[.]com/timecards/approval\nThanks,\nManager Notifications",
+  "links": [
+    {
+      "original": "https://payroll.nebulon[.]com/timecards/approval",
+      "resolved": "https://payroll.nebulon[.]com/timecards/approval"
+    }
+  ],
+  "attachments": []
+}

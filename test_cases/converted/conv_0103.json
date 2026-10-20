@@ -1,0 +1,13 @@
+{
+  "id": "conv_0103",
+  "headers": {
+    "from": "notifications@learning-portal-support.com",
+    "to": "employee@company.com",
+    "subject": "Training Enrollment Confirmed – Live Line Safety",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nYour enrollment is pending verification. Open and sign the attached form them send it back to confirm your seat.\nLearning Support\nAttachment: LiveLine_Safety_Enrollment_Form.pdf.exe",
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conv_0136",
+  "headers": {
+    "from": "training@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Mandatory Training: Export Compliance Refresher",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Nebulon Staff,\nThis is a reminder that the annual Export Compliance refresher is due by August 9. The training materials are attached.\nIf you’ve already completed it, thank you—no further action is needed.\nThanks,\nTraining Team\nAttachment: ExportCompliancePolicy.docx",
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0070",
+  "headers": {
+    "from": "support@nebulonalerts.net",
+    "to": "employee@company.com",
+    "subject": "System Maintenance Notification",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "URGENT ACTION REQUIRED!\nFailure to respond within 24 hours will result in suspension of your remote access. Confirm your access now:\nhttps://nebulonalerts[.]com/nebulon-access-check\nNebulon Security Enforcement",
+  "links": [
+    {
+      "original": "https://nebulonalerts[.]com/nebulon-access-check",
+      "resolved": "https://nebulonalerts[.]com/nebulon-access-check"
+    }
+  ],
+  "attachments": []
+}

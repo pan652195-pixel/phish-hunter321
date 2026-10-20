@@ -1,0 +1,18 @@
+{
+  "id": "conv_0081",
+  "headers": {
+    "from": "it.collaboration@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "New Remote Meeting Software",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Robert,\nAs part of Nebulon's ongoing efforts to enhance collaboration, we're transitioning to a new tool for remote meetings. We'll share training materials later this week and schedule short demos for each team.\nNo action is required tonight. If you have questions, reply to this email or visit the internal FAQ here: https://itcollab.nebulon[.]com/faq\nThanks,\nIT Collaboration Services",
+  "links": [
+    {
+      "original": "https://itcollab.nebulon[.]com/faq",
+      "resolved": "https://itcollab.nebulon[.]com/faq"
+    }
+  ],
+  "attachments": []
+}

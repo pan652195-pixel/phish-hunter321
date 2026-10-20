@@ -1,0 +1,13 @@
+{
+  "id": "conv_0005",
+  "headers": {
+    "from": "it-notice@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "VPN Client Update Available (v5.4.2)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Greetings,\nA VPN security update (v5.4.2) is pending for your account. To prevent sign-in errors, confirm your VPN username and current password by replying to this message.\nIf you do not respond, your remote access may be temporarily disabled during the upgrade cycle.\nThanks,\nNebulon VPN Support",
+  "links": [],
+  "attachments": []
+}

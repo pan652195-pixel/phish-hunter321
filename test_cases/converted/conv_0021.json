@@ -1,0 +1,18 @@
+{
+  "id": "conv_0021",
+  "headers": {
+    "from": "usps@shipping-status-center.com",
+    "to": "employee@company.com",
+    "subject": "Shipping Update – PO NBL-10427",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear Dennis,\nDelivery is pending due to an address mismatch for PO NBL-10427. Please verify delivery details ASAP to avoid return-to-sender:\nhttp://shipping-status-center[.]com/ship/verify/NBL-10427\nThanks,\nShipping Support",
+  "links": [
+    {
+      "original": "http://shipping-status-center[.]com/ship/verify/NBL-10427",
+      "resolved": "http://shipping-status-center[.]com/ship/verify/NBL-10427"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conv_0086",
+  "headers": {
+    "from": "travel@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Calendar Update: Site Visit – Time Change (Mar 3)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Robert,\nThe Site 22 visit on March 3 has been moved from 1:00–2:00 PM to 2:00–3:00 PM (same room). An updated calendar invite is attached.\nThanks,\nNebulon Travel & Scheduling\nAttachment: Site22_Visit_TimeChange.ics",
+  "links": [],
+  "attachments": []
+}

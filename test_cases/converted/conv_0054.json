@@ -1,0 +1,13 @@
+{
+  "id": "conv_0054",
+  "headers": {
+    "from": "compliance@hebulon.com",
+    "to": "employee@company.com",
+    "subject": "Reminder: Q3 Ethics Acknowledgement",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Engineering Team,\nThe acknowledgement form is attached. You need to complete and return it by end of day.\nThanks,\nCompliance Operations\nAttachment: Q3_Ethics_Acknowledgement_Form.docm",
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0084",
+  "headers": {
+    "from": "security@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Multi-Factor Authentication Enrollment Reminder",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Noah,\nPlease enroll in multi-factor authentication by the end of the week to enhance your account security.\nVisit the Security Center here: https://security.nebulon[.]com/mfa-enroll\nThanks,\nNebulon Security Team",
+  "links": [
+    {
+      "original": "https://security.nebulon[.]com/mfa-enroll",
+      "resolved": "https://security.nebulon[.]com/mfa-enroll"
+    }
+  ],
+  "attachments": []
+}

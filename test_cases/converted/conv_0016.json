@@ -1,0 +1,18 @@
+{
+  "id": "conv_0016",
+  "headers": {
+    "from": "legal-contracts@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Action Requested: Vendor NDA Template v3 (for New SOWs)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Project Leads,\nWe published NDA Template v3 to address the updated data handling language. Please use this version for any new vendor SOWs starting April 15.\nThe template is attached and is available here: https://www.nebulon[.]com/legal/templates/nda-v3\nThanks,\nLegal Contracts\nAttachment: NDA_Template_v3.pdf",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/legal/templates/nda-v3",
+      "resolved": "https://www.nebulon[.]com/legal/templates/nda-v3"
+    }
+  ],
+  "attachments": []
+}

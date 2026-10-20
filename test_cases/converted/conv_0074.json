@@ -1,0 +1,13 @@
+{
+  "id": "conv_0074",
+  "headers": {
+    "from": "procurement.requests@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "PO NBL-11390 – Signed Copy Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Cameron,\nThe vendor returned PO NBL-11390 signed (see attachment). Please countersign and reupload to the procurement folder when you get a chance.\nThanks,\nProcurement\nAttachment: PO_NBL-11390_Signed_Vendor_Agreement.pdf",
+  "links": [],
+  "attachments": []
+}

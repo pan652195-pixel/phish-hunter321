@@ -1,0 +1,18 @@
+{
+  "id": "conv_0019",
+  "headers": {
+    "from": "accounts.payable@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Receipt Needed – Travel Expense Report TR-10483",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Joshua,\nCould you upload the hotel receipt for Expense Report TR-10483 soon? The report is otherwise ready to close.\nUpload the missing receipt here: https://nebulon[.]com/expense/upload/TR-10483\nThanks,\nAccounts Payable",
+  "links": [
+    {
+      "original": "https://nebulon[.]com/expense/upload/TR-10483",
+      "resolved": "https://nebulon[.]com/expense/upload/TR-10483"
+    }
+  ],
+  "attachments": []
+}

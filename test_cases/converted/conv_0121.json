@@ -1,0 +1,13 @@
+{
+  "id": "conv_0121",
+  "headers": {
+    "from": "wellness@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Charity Miles Challenge – Pick a Cause (Optional)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "|\nHi team,\nThis month’s wellness challenge is a Charity Miles challenge. Every mile logged contributes to a donation pool, and you can choose which cause to support.\nYou do not need to share routes or location—only total miles are counted.\nThanks,\nWellness Team\nAttachment: Wellness_Challenge_Rules.docx",
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0098",
+  "headers": {
+    "from": "security.operations@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "After-Hours Access Request – On-Call Roster Confirmation",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Victor,\nYour after-hours access request cannot be approved until identity verification is completed. Please upload a photo of your badge (front/back) and your home address for verification to this link: https://NebuionSecurity[.]com/accessverification/approvals/38478374\nSecurity Operations",
+  "links": [
+    {
+      "original": "https://NebuionSecurity[.]com/accessverification/approvals/38478374",
+      "resolved": "https://NebuionSecurity[.]com/accessverification/approvals/38478374"
+    }
+  ],
+  "attachments": []
+}

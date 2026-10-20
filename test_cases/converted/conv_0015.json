@@ -1,0 +1,18 @@
+{
+  "id": "conv_0015",
+  "headers": {
+    "from": "infohub.alerts@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Alert Resolved: Voltage Sag – Feeder 3C (Site 11)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "GridOps East,\nThe voltage sag event on Feeder 3C (Site 11) at 07:32 CDT has cleared. No protective relays tripped and the feeder returned to nominal within 38 seconds.\nEvent details are available in InfoHub: https://www.nebulon[.]com/infohub/events/site11-feeder3c-20250402\nThanks,\nInfoHub Monitoring",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/infohub/events/site11-feeder3c-20250402",
+      "resolved": "https://www.nebulon[.]com/infohub/events/site11-feeder3c-20250402"
+    }
+  ],
+  "attachments": []
+}

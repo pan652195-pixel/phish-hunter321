@@ -1,0 +1,18 @@
+{
+  "id": "conv_0130",
+  "headers": {
+    "from": "rewards@survey-prize-center.com",
+    "to": "employee@company.com",
+    "subject": "Gift Card Reward Pending – Verify to Claim",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nYou’ve been selected for a gift card reward. Verify your eligibility now to claim it:\nhttps://survey-prize-center[.]com/claim?token=Q2X17K4\nThis offer expires today.\nRewards Center",
+  "links": [
+    {
+      "original": "https://survey-prize-center[.]com/claim?token=Q2X17K4",
+      "resolved": "https://survey-prize-center[.]com/claim?token=Q2X17K4"
+    }
+  ],
+  "attachments": []
+}

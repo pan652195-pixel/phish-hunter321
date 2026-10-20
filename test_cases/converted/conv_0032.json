@@ -1,0 +1,13 @@
+{
+  "id": "conv_0032",
+  "headers": {
+    "from": "compliance@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Q2 Environmental Checklist – Submission Reminder",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Site Leads,\nReminder to submit the Q2 environmental checklist by end of day Friday. If you’ve already uploaded yours, thank you.\nRegards,\nCompliance Operations",
+  "links": [],
+  "attachments": []
+}

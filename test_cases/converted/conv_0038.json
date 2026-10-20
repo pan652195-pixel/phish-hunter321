@@ -1,0 +1,13 @@
+{
+  "id": "conv_0038",
+  "headers": {
+    "from": "receiving@nebulon-shipping.com",
+    "to": "employee@company.com",
+    "subject": "Delivery Scheduled – PO NBL-10988 (Dock Appointment)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Hannah,\nReceiving scheduled a dock appointment for PO NBL-10988 on July 3 between 9:00–11:00 AM. If the shipment needs a lift gate, let us know and we’ll update the carrier notes.\nThanks,\nReceiving",
+  "links": [],
+  "attachments": []
+}

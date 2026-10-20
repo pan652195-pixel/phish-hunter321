@@ -1,0 +1,18 @@
+{
+  "id": "conv_0083",
+  "headers": {
+    "from": "alert@security-neblon.com",
+    "to": "employee@company.com",
+    "subject": "Urgent: MFA Enrollment Required Immediately",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear User, \nEnroll in multi-factor authentication now to avoid suspension on April 28th: http://security-nebulon[.]com/mfa-enroll \nUrgent action required.",
+  "links": [
+    {
+      "original": "http://security-nebulon[.]com/mfa-enroll",
+      "resolved": "http://security-nebulon[.]com/mfa-enroll"
+    }
+  ],
+  "attachments": []
+}

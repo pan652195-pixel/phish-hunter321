@@ -1,0 +1,13 @@
+{
+  "id": "conv_0044",
+  "headers": {
+    "from": "billing@arcservcloud.com",
+    "to": "employee@company.com",
+    "subject": "ArcServ Cloud Invoice – July Statement Available",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nAttached is the updated July invoice copy. Please review and process today to avoid service interruption.\nArcServ Billing\nAttachment: ArcServ_Invoice_July2025.pdf.zip",
+  "links": [],
+  "attachments": []
+}

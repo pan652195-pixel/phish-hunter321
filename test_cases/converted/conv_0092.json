@@ -1,0 +1,18 @@
+{
+  "id": "conv_0092",
+  "headers": {
+    "from": "travel@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Shuttle Pickup Confirmed – Site 12 Visit (TR-91330)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nShuttle pickup for Trip TR-91330 is confirmed.\nPickup location: HQ West – Lobby A\nPickup time: 6:15 AM (Apr 10)\nDriver will check in at the front desk.\nIf you need to change your pickup location, please update your details here: https://travel.nebulon[.]com/shuttle-update\nThanks,\nNebulon Travel Desk",
+  "links": [
+    {
+      "original": "https://travel.nebulon[.]com/shuttle-update",
+      "resolved": "https://travel.nebulon[.]com/shuttle-update"
+    }
+  ],
+  "attachments": []
+}

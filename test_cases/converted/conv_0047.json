@@ -1,0 +1,18 @@
+{
+  "id": "conv_0047",
+  "headers": {
+    "from": "onedrive@nebuIon.com",
+    "to": "employee@company.com",
+    "subject": "OneDrive: File Shared With You",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Rachel,\nA file was shared with you: \"Q3 Site Readiness Checklist\"\nView file: http://nebuion[.]com/onedrive/view/q3-readiness\nOneDrive",
+  "links": [
+    {
+      "original": "http://nebuion[.]com/onedrive/view/q3-readiness",
+      "resolved": "http://nebuion[.]com/onedrive/view/q3-readiness"
+    }
+  ],
+  "attachments": []
+}

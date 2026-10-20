@@ -1,0 +1,13 @@
+{
+  "id": "conv_0125",
+  "headers": {
+    "from": "it-support@nebulon-it.com",
+    "to": "employee@company.com",
+    "subject": "Patch Window – SCADA Workstations (Schedule Attached)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Control Systems,\nThe SCADA patch schedule is attached. Before the window begins, open the attachment and run the \"pre-check\" to prevent workstation lockout during maintenance.\nIT Support\nAttachment: SCADA_Patch_Window_Schedule_Oct2026.pdf.zip",
+  "links": [],
+  "attachments": []
+}

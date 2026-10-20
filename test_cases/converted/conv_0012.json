@@ -1,0 +1,18 @@
+{
+  "id": "conv_0012",
+  "headers": {
+    "from": "hr.onboarding@nebulon-hrsupport.com",
+    "to": "employee@company.com",
+    "subject": "Benefits Enrollment Reminder (New Hire – 30-Day Window)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Priya,\nQuick reminder that your benefits enrollment window closes 30 days after your start date. If you’ve already submitted your selections, you can disregard this email.\nYou can review options and enroll through the HR portal: https://www.nebulon[.]com/hr/benefits-portal\nBest,\nJanelle\nHR Onboarding",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/hr/benefits-portal",
+      "resolved": "https://www.nebulon[.]com/hr/benefits-portal"
+    }
+  ],
+  "attachments": []
+}

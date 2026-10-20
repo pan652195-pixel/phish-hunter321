@@ -1,0 +1,18 @@
+{
+  "id": "conv_0105",
+  "headers": {
+    "from": "training@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Tabletop Exercise Follow-Up – Feedback Requested",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Liam,\nYour participation record is incomplete. To issue your completion certificate, verify your employee ID, SSN, and work location using the training link below:\nhttps://nebulon-training[.]com/verify?event=tabletop&token=R4m2T9\nTraining Desk",
+  "links": [
+    {
+      "original": "https://nebulon-training[.]com/verify?event=tabletop&token=R4m2T9",
+      "resolved": "https://nebulon-training[.]com/verify?event=tabletop&token=R4m2T9"
+    }
+  ],
+  "attachments": []
+}

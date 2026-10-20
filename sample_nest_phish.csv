@@ -1,0 +1,7 @@
+sender,recipient,subject,body,label,theme
+it-support@nebulon.com,employee@nebulon.com,"Password reset required","Dear user, your account password needs reset within 24 hours. Click http://portal.nebulon.com/reset to verify.",phishing,account_security
+hr@nebulon.com,employee@nebulon.com,"Q3 benefits enrollment open","Hi team, Q3 benefits enrollment is now open. Visit the HR portal to review options. Deadline this Friday.",legitimate,hr_payroll
+no-reply@nebulon-verify.com,employee@nebulon.com,"Suspicious login detected","We detected a login from a new device. Verify your identity immediately: http://login-verify.nebulon-example.com",phishing,account_security
+finance@nebulon.com,vendor@external.com,"Invoice #NV-2024-118","Please find invoice attached. Payment due net-14. Contact AP with questions.",legitimate,finance_ap
+ceo.office@nebulon.com,finance@nebulon.com,"Urgent wire transfer","I'm in a board meeting. Process an urgent wire today. Don't tell anyone. Call me for account details.",phishing,bec_finance
+admin@nebulon.com,all-staff@nebulon.com,"Office maintenance notice","IT will perform server maintenance this Sunday 2-4am. Expect brief downtime.",legitimate,it_maintenance

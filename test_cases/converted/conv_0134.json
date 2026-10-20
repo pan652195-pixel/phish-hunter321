@@ -1,0 +1,18 @@
+{
+  "id": "conv_0134",
+  "headers": {
+    "from": "wellness@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Wellness Challenge – Weekly Check-In",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Nebulon Employees,\nWeek 2 check-in for the wellness challenge. Make sure you're logging your points: https://nebulon-wellness[.]com/week2challenge?3848743 if you’re participating, remember you can log steps/miles without sharing routes or location.\nKeep it up, and thanks for joining.\nWellness Team",
+  "links": [
+    {
+      "original": "https://nebulon-wellness[.]com/week2challenge?3848743",
+      "resolved": "https://nebulon-wellness[.]com/week2challenge?3848743"
+    }
+  ],
+  "attachments": []
+}

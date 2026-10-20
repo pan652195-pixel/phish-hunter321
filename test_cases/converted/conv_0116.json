@@ -1,0 +1,18 @@
+{
+  "id": "conv_0116",
+  "headers": {
+    "from": "sharepoint@sharepoint-access.com",
+    "to": "employee@company.com",
+    "subject": "Draft Scope Doc – Review Requested",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nA document titled \"Draft Scope Doc – Ridgeview Controls\" has been shared with you.\nReview it here: http://nebulon[.]net/doc/review/ridgeview-scope\nThanks,\nSharePoint Team",
+  "links": [
+    {
+      "original": "http://nebulon[.]net/doc/review/ridgeview-scope",
+      "resolved": "http://nebulon[.]net/doc/review/ridgeview-scope"
+    }
+  ],
+  "attachments": []
+}

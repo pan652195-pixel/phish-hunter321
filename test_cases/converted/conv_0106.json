@@ -1,0 +1,18 @@
+{
+  "id": "conv_0106",
+  "headers": {
+    "from": "survey@employee-rewards.com",
+    "to": "employee@company.com",
+    "subject": "Complete Survey to Win a Gift Card",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYou’ve been selected to participate in a short survey to win a gift card. Complete the survey now to claim your entry:\nhttps://employee-rewards[.]com/survey/start?token=K7P3Q1\nSurvey Team",
+  "links": [
+    {
+      "original": "https://employee-rewards[.]com/survey/start?token=K7P3Q1",
+      "resolved": "https://employee-rewards[.]com/survey/start?token=K7P3Q1"
+    }
+  ],
+  "attachments": []
+}

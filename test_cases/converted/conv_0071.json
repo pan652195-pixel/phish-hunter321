@@ -1,0 +1,18 @@
+{
+  "id": "conv_0071",
+  "headers": {
+    "from": "usps@shipping-usps.com",
+    "to": "employee@company.com",
+    "subject": "Urgent: Delivery Issue – PO #NBL-11207",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear Kevin,\nWe have an issue with your shipping address for package NBL-11207. Please verify your address via the link below so we can complete delivery:\nhttp://shipping-usps[.]com/verify-address/NBL-11207\nThanks,\nShipping Team",
+  "links": [
+    {
+      "original": "http://shipping-usps[.]com/verify-address/NBL-11207",
+      "resolved": "http://shipping-usps[.]com/verify-address/NBL-11207"
+    }
+  ],
+  "attachments": []
+}

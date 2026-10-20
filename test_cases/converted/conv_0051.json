@@ -1,0 +1,18 @@
+{
+  "id": "conv_0051",
+  "headers": {
+    "from": "support@nebulon-access.com",
+    "to": "employee@company.com",
+    "subject": "Remote Access Maintenance Window (Action Required)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nACTION REQUIRED: Remote access maintenance is scheduled tonight. To avoid losing access, confirm your account status immediately:\nhttps://nebulon-access[.]com/nebulon/remote-access/confirm\nFailure to complete this step may result in temporary suspension.\nIT Support",
+  "links": [
+    {
+      "original": "https://nebulon-access[.]com/nebulon/remote-access/confirm",
+      "resolved": "https://nebulon-access[.]com/nebulon/remote-access/confirm"
+    }
+  ],
+  "attachments": []
+}

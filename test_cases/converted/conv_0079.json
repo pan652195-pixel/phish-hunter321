@@ -1,0 +1,18 @@
+{
+  "id": "conv_0079",
+  "headers": {
+    "from": "receiving@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Delivery Update: Address Clarification Needed (Site Mail)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nA shipment arrived at the main receiving dock, but the internal mail stop/site code on the label is incomplete. If you’re expecting a package delivered this week, please reply with your building number and mail stop so Receiving can route it correctly.\nAlternatively, you can update your delivery details here: https://receiving.nebulon[.]com/package-update\nThanks,\nReceiving",
+  "links": [
+    {
+      "original": "https://receiving.nebulon[.]com/package-update",
+      "resolved": "https://receiving.nebulon[.]com/package-update"
+    }
+  ],
+  "attachments": []
+}

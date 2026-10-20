@@ -1,0 +1,18 @@
+{
+  "id": "conv_0076",
+  "headers": {
+    "from": "notifications@voicemailservice.com",
+    "to": "employee@company.com",
+    "subject": "New Voicemail",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "User,\nA caller left an audio message.\nDate: Today\nAudio Length: 0:31\nExpiration: 24 Hours\nListen: https://voicemail[.]com/vm/listen/44710\nVoicemail Service",
+  "links": [
+    {
+      "original": "https://voicemail[.]com/vm/listen/44710",
+      "resolved": "https://voicemail[.]com/vm/listen/44710"
+    }
+  ],
+  "attachments": []
+}

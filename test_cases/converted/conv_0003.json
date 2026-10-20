@@ -1,0 +1,13 @@
+{
+  "id": "conv_0003",
+  "headers": {
+    "from": "payroll@nebulon-payrollsupport.com",
+    "to": "employee@company.com",
+    "subject": "Payroll Adjustment – Confirmation Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Tamara,\nWe’re processing the retro payroll adjustment tied to your January role change. Can you please confirm which cost center the adjustment should charge to (per your manager’s note: either CC-2147 or CC-2190) and whether it should be split across both?\nOnce you reply, we’ll queue it for the next payroll run.\nThanks,\nNebulon Payroll Processing",
+  "links": [],
+  "attachments": []
+}

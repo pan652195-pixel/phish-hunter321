@@ -1,0 +1,18 @@
+{
+  "id": "conv_0004",
+  "headers": {
+    "from": "internal.it.services@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "VPN Client Update Available (v5.4.2)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Daniel,\nA routine update for the Nebulon VPN client (v5.4.2) is now available. No action is required unless you see an update prompt when you connect.\nRelease notes and the install window are posted on the IT updates page: https://www.nebulon[.]com/it-upgrades/vpn-client-5-4-2\nThanks,\nIT Services",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/it-upgrades/vpn-client-5-4-2",
+      "resolved": "https://www.nebulon[.]com/it-upgrades/vpn-client-5-4-2"
+    }
+  ],
+  "attachments": []
+}

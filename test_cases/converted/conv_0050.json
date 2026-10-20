@@ -1,0 +1,18 @@
+{
+  "id": "conv_0050",
+  "headers": {
+    "from": "noreply@gridmetrics.net",
+    "to": "employee@company.com",
+    "subject": "GridMetrics Usage Summary – August",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYour August GridMetrics usage summary is ready. Download the summary CSV from your dashboard:\nhttps://www.gridmetrics[.]net/dashboard/usage/august\nThanks,\nGridMetrics Support",
+  "links": [
+    {
+      "original": "https://www.gridmetrics[.]net/dashboard/usage/august",
+      "resolved": "https://www.gridmetrics[.]net/dashboard/usage/august"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0045",
+  "headers": {
+    "from": "receeving@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Lab Courier Pickup – Address Confirmation (Site 11)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Natalie,\nThe courier pickup is pending due to an address validation error. Please confirm the pickup details here:\nhttps://nebulonreceving[.]com/pickup/validate/site11\nReceiving",
+  "links": [
+    {
+      "original": "https://nebulonreceving[.]com/pickup/validate/site11",
+      "resolved": "https://nebulonreceving[.]com/pickup/validate/site11"
+    }
+  ],
+  "attachments": []
+}

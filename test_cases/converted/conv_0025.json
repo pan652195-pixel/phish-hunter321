@@ -1,0 +1,13 @@
+{
+  "id": "conv_0025",
+  "headers": {
+    "from": "notifications@voicemail.com",
+    "to": "employee@company.com",
+    "subject": "New Voicemail (1)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Ethan,\nYou received a new voicemail.\nReceived: 10:14 AM MDT\nDuration: 0:22\nYou can listen from the Nebulon voicemail portal.\nThanks,\nNebulon Unified Messaging",
+  "links": [],
+  "attachments": []
+}

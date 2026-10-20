@@ -1,0 +1,18 @@
+{
+  "id": "conv_0097",
+  "headers": {
+    "from": "facilities.security@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Visitor Parking Request – Vehicle Details",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Daniel,\nWe can’t approve visitor parking without registration verification. Please upload vehicle license plate and a photo/scan of the registration card so we can complete the request here: https://security[.]com/visitor/registration-upload\nFacilities Security",
+  "links": [
+    {
+      "original": "https://security[.]com/visitor/registration-upload",
+      "resolved": "https://security[.]com/visitor/registration-upload"
+    }
+  ],
+  "attachments": []
+}

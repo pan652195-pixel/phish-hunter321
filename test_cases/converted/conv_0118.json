@@ -1,0 +1,18 @@
+{
+  "id": "conv_0118",
+  "headers": {
+    "from": "wellness@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Wellness Screening Sign-Up (Optional)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nAs part of this quarter’s wellness program, we’re offering optional health screenings on-site next week (blood pressure, cholesterol, glucose).\nTo schedule a time, use the Wellness page in the HR portal: https://wellness.hrportal.nebulon[.]com/schedule\nThanks,\nWellness Team",
+  "links": [
+    {
+      "original": "https://wellness.hrportal.nebulon[.]com/schedule",
+      "resolved": "https://wellness.hrportal.nebulon[.]com/schedule"
+    }
+  ],
+  "attachments": []
+}

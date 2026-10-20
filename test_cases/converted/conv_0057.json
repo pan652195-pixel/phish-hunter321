@@ -1,0 +1,18 @@
+{
+  "id": "conv_0057",
+  "headers": {
+    "from": "messaging.admin@mail-alerts.com",
+    "to": "employee@company.com",
+    "subject": "Mailbox Rule Created",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Sophia,\nWe detected a new inbox rule that may redirect messages. Review recent activity here:\nhttp://nebulon[.]com/mail/rules/review\nMessaging Admin",
+  "links": [
+    {
+      "original": "http://nebulon[.]com/mail/rules/review",
+      "resolved": "http://nebulon[.]com/mail/rules/review"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0127",
+  "headers": {
+    "from": "compliance@nebulon.compliance-forms.net",
+    "to": "employee@company.com",
+    "subject": "Missing Incident Logs – August",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nAugust incident logs are missing for Sites 11 and 14. Upload files using the secure compliance form:\nhttp://nebuloncompliance[.]com/safety/incident-logs-upload\nThis must be completed by end of week.\nCompliance Operations",
+  "links": [
+    {
+      "original": "http://nebuloncompliance[.]com/safety/incident-logs-upload",
+      "resolved": "http://nebuloncompliance[.]com/safety/incident-logs-upload"
+    }
+  ],
+  "attachments": []
+}

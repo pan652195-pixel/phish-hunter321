@@ -1,0 +1,13 @@
+{
+  "id": "conv_0078",
+  "headers": {
+    "from": "compliance@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Annual Policy Review Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear team,\nThe updated site conduct policies for 2026 are now posted. Please review and acknowledge by February 2.\nThanks,\nCompliance Operations\nAttachment: NebulonSitePolicies.pdf",
+  "links": [],
+  "attachments": []
+}

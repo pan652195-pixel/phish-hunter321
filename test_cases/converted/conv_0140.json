@@ -1,0 +1,13 @@
+{
+  "id": "conv_0140",
+  "headers": {
+    "from": "legal.hold@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Legal Hold Notice – Do Not Delete (Project Riverbend)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Finance Team,\nA legal hold is in effect for records related to Project Riverbend. Please do not delete or modify relevant emails, files, or notes until further notice. Addditional details can be found in the attached document.\nIf you have questions about what is in scope, reply to this message.\nThanks,\nLegal Hold Administrator\nAttachment: LegalHold_Notice.pdf",
+  "links": [],
+  "attachments": []
+}

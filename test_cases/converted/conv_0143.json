@@ -1,0 +1,13 @@
+{
+  "id": "conv_0143",
+  "headers": {
+    "from": "comms@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Message from Leadership – Q3 Update",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Colleagues,\nSharing a brief Q3 update from leadership. Thank you for your work this quarter and for supporting your teams through a busy project season.\nMore details will be covered in next week’s all-hands.\nThank you,\nCorporate Communications\nAttachment: NebulonCorpQ3Update.pdf",
+  "links": [],
+  "attachments": []
+}

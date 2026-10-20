@@ -1,0 +1,18 @@
+{
+  "id": "conv_0072",
+  "headers": {
+    "from": "vendor.portal@partstek.com",
+    "to": "employee@company.com",
+    "subject": "Shipping Confirmation – PO #NBL-11207",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Kevin,\nYour order NBL-12314 has shipped.\nCarrier: FedEx Freight\nETA: Dec 5–7\nTrack here: https://www.partstek[.]com/orders/NBL-12314\nNo action is required.\nThanks,\nPartsTek Fulfillment",
+  "links": [
+    {
+      "original": "https://www.partstek[.]com/orders/NBL-12314",
+      "resolved": "https://www.partstek[.]com/orders/NBL-12314"
+    }
+  ],
+  "attachments": []
+}

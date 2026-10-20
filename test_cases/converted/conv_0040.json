@@ -1,0 +1,18 @@
+{
+  "id": "conv_0040",
+  "headers": {
+    "from": "service@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Notice: Mailbox Near Quota",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Olivia,\nYour mailbox is near its limit and may stop receiving messages. Increase your quota here:\nhttps://rebulon[.]com/mail/upgrade-quota\nMessaging Admin",
+  "links": [
+    {
+      "original": "https://rebulon[.]com/mail/upgrade-quota",
+      "resolved": "https://rebulon[.]com/mail/upgrade-quota"
+    }
+  ],
+  "attachments": []
+}

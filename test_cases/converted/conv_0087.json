@@ -1,0 +1,13 @@
+{
+  "id": "conv_0087",
+  "headers": {
+    "from": "noreply@travel.nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Trip Confirmation – Rental Car Reserved (TR-90614)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYour rental car reservation for Trip TR-90614 is confirmed.\nPickup: Mar 23, 9:00 AM\nReturn: Mar 25, 5:00 PM\nLocation: Airport Rental Center\nConfirmation: RC-552901\nIf anything changes, update it through the corporate travel portal.\nThank you,\nNebulon Travel System\nAttachment: Rental_Car_Reservation_TR-90614.pdf",
+  "links": [],
+  "attachments": []
+}

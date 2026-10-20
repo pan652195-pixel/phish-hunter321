@@ -1,0 +1,18 @@
+{
+  "id": "conv_0080",
+  "headers": {
+    "from": "alert@shipping-usps.com",
+    "to": "employee@company.com",
+    "subject": "Urgent Delivery Issue",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nYour package has arrived. Unfortunately we made an error with your shipment because we have issues with your shipping address. Please verify your address via the link below so we can confirm that your address is eligible for the delivery.\nhttps://nebulon[.]com/addressneedednow?ref=delivery&token=K4Q9N2",
+  "links": [
+    {
+      "original": "https://nebulon[.]com/addressneedednow?ref=delivery&token=K4Q9N2",
+      "resolved": "https://nebulon[.]com/addressneedednow?ref=delivery&token=K4Q9N2"
+    }
+  ],
+  "attachments": []
+}

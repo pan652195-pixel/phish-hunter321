@@ -1,0 +1,18 @@
+{
+  "id": "conv_0088",
+  "headers": {
+    "from": "noreply@travel-nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Action Required – Rental Car Hold (TR-90614)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYour rental car reservation for Trip TR-90614 is on hold due to a payment verification error.\nConfirm traveler details to release the reservation:\nhttp://nebulon-travel[.]com/release?trip=TR-90614&auth=K7P3Q1\nThis must be completed today or the reservation will be canceled.\nTravel Desk",
+  "links": [
+    {
+      "original": "http://nebulon-travel[.]com/release?trip=TR-90614&auth=K7P3Q1",
+      "resolved": "http://nebulon-travel[.]com/release?trip=TR-90614&auth=K7P3Q1"
+    }
+  ],
+  "attachments": []
+}

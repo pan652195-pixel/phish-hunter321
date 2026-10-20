@@ -1,0 +1,18 @@
+{
+  "id": "conv_0112",
+  "headers": {
+    "from": "payroll@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Timecard Exception Report – Missing Submissions",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nThe payroll exception report shows missing timecards for the current pay period. If you haven’t submitted yet, please do so before tomorrow morning so we can close payroll. You can review and submit your timecards here: https://payroll.nebulon[.]com/reports/exception\nThanks,\nPayroll",
+  "links": [
+    {
+      "original": "https://payroll.nebulon[.]com/reports/exception",
+      "resolved": "https://payroll.nebulon[.]com/reports/exception"
+    }
+  ],
+  "attachments": []
+}

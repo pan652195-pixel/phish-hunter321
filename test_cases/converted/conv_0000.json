@@ -1,0 +1,18 @@
+{
+  "id": "conv_0000",
+  "headers": {
+    "from": "compliance-dept@nebulon-policy.com",
+    "to": "employee@company.com",
+    "subject": "Annual Policy Review – Final Notice",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYour annual policy acknowledgement is past due and must be completed today to avoid access restrictions.\nOpen the attached form and confirm your employee ID and network password to complete verification. If the attachment does not open, use this link instead: https://nebulon-policy[.]com/nebulon/policy-acknowledgement\nRegards,\nHR Compliance Desk\nAttachment: Updated_Site_Conduct_Policies_2025.pdf.zip",
+  "links": [
+    {
+      "original": "https://nebulon-policy[.]com/nebulon/policy-acknowledgement",
+      "resolved": "https://nebulon-policy[.]com/nebulon/policy-acknowledgement"
+    }
+  ],
+  "attachments": []
+}

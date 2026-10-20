@@ -1,0 +1,13 @@
+{
+  "id": "email_005",
+  "headers": {
+    "from": "ceo@company.com",
+    "to": "assistant@company.com",
+    "subject": "Re: 我正在开会",
+    "spf_result": "pass",
+    "dkim_result": "pass"
+  },
+  "body_text": "Hi，我现在正在开董事会，不方便接电话。帮我立刻处理一笔紧急转账，对方账户信息稍后发你，务必今天下班前办好，不要告诉其他人。",
+  "links": [],
+  "attachments": []
+}

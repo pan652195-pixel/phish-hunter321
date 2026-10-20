@@ -1,0 +1,18 @@
+{
+  "id": "conv_0046",
+  "headers": {
+    "from": "support@envirotracklabs.com",
+    "to": "employee@company.com",
+    "subject": "Lab Courier Pickup – Address Confirmation (Site 11)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Natalie,\nHi Natalie,\nWe’re scheduling the courier pickup for the Site 11 sample kits tomorrow morning. Can you confirm the delivery address line for the receiving gate (building name + street number) so the driver checks in at the right location?\nPlease confirm or update the address here: https://envirotrack[.]com/courier-confirmation\nThanks,\nEnviroTrack Labs Support",
+  "links": [
+    {
+      "original": "https://envirotrack[.]com/courier-confirmation",
+      "resolved": "https://envirotrack[.]com/courier-confirmation"
+    }
+  ],
+  "attachments": []
+}

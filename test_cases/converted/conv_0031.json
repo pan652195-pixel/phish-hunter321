@@ -1,0 +1,13 @@
+{
+  "id": "conv_0031",
+  "headers": {
+    "from": "compliance@regulatory-forms.com",
+    "to": "employee@company.com",
+    "subject": "Q2 Environmental Checklist – Submission Reminder",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nThe Q2 checklist is still pending for your site. Please complete the attached form and return it to this email thread.\nThanks,\nCompliance Operations\nAttachment: Q2_Environmental_Checklist.docm",
+  "links": [],
+  "attachments": []
+}

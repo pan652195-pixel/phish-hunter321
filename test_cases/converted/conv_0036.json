@@ -1,0 +1,18 @@
+{
+  "id": "conv_0036",
+  "headers": {
+    "from": "dispatch@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Dispatch Note – Site 7 Weather Delay",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Everyone,\nUpdated route plan is posted. Please review before leaving the yard:\nhttp://nebuloon[.]com/dispatch/site7-route-update\nDispatch",
+  "links": [
+    {
+      "original": "http://nebuloon[.]com/dispatch/site7-route-update",
+      "resolved": "http://nebuloon[.]com/dispatch/site7-route-update"
+    }
+  ],
+  "attachments": []
+}

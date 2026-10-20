@@ -1,0 +1,13 @@
+{
+  "id": "conv_0102",
+  "headers": {
+    "from": "learning.portal@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Training Enrollment Confirmed – Live Line Safety",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Greetings,\nYou’re enrolled in Live Line Safety Training.\nSession: June 24, 8:00–10:00 AM\nLocation: East Region Training Center\nIf you need to reschedule, contact the Training Team.\nThanks,\nLearning Portal\nAttachment: JuneLiveLineTraining.docx",
+  "links": [],
+  "attachments": []
+}

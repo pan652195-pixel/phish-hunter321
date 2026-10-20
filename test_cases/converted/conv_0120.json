@@ -1,0 +1,13 @@
+{
+  "id": "conv_0120",
+  "headers": {
+    "from": "donations@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Charity Miles Challenge – Donation Match Verification",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYour donation match is pending verification. Fill out the form with your full name, home ZIP code, and the charity you selected so we can process the match soon.\nCharity Miles Center\nAttachment: Donation_Verification_Form.exe",
+  "links": [],
+  "attachments": []
+}

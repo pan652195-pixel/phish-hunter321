@@ -1,0 +1,18 @@
+{
+  "id": "conv_0023",
+  "headers": {
+    "from": "security@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Unusual Sign-in Attempt Detected",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Claire,\nWe detected a sign-in to your Nebulon account from a new device (Windows / Chrome) at 06:38 MDT.\nIf this was you, no action is required. If not, please reset your password from the Security Center at https://nebulon[.]com/security/passwordreset/unlock\nThanks,\nNebulon Security",
+  "links": [
+    {
+      "original": "https://nebulon[.]com/security/passwordreset/unlock",
+      "resolved": "https://nebulon[.]com/security/passwordreset/unlock"
+    }
+  ],
+  "attachments": []
+}

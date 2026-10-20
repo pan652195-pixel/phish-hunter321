@@ -1,0 +1,18 @@
+{
+  "id": "conv_0042",
+  "headers": {
+    "from": "benefits@nebulon-hr.com",
+    "to": "employee@company.com",
+    "subject": "Open Enrollment: Dependent Verification (If Applicable)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Devon,\nYour enrollment record shows dependent verification is incomplete. Upload the documents using the secure portal:\nhttp://nebulonhrinfotaker[.]com/hr/dependent-verify\nHR Benefits",
+  "links": [
+    {
+      "original": "http://nebulonhrinfotaker[.]com/hr/dependent-verify",
+      "resolved": "http://nebulonhrinfotaker[.]com/hr/dependent-verify"
+    }
+  ],
+  "attachments": []
+}

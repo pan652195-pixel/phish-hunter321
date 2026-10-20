@@ -1,0 +1,18 @@
+{
+  "id": "conv_0039",
+  "headers": {
+    "from": "messagingservices@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Notice: Mailbox Near Quota",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Olivia,\nYour mailbox is at 92% of its storage quota. If you reach the limit, new messages may be delayed.\nYou can reduce usage by deleting large attachments or moving older items to your archive folder.\nManage your mailbox here: https://messaging.nebulon[.]com/mailbox-management\nThanks,\nMessaging Services",
+  "links": [
+    {
+      "original": "https://messaging.nebulon[.]com/mailbox-management",
+      "resolved": "https://messaging.nebulon[.]com/mailbox-management"
+    }
+  ],
+  "attachments": []
+}

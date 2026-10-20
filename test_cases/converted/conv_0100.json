@@ -1,0 +1,18 @@
+{
+  "id": "conv_0100",
+  "headers": {
+    "from": "giving@neburon-gives.org",
+    "to": "employee@company.com",
+    "subject": "Nebulon Gives Enrollment – Action Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nNebulon Gives is officially underway. Our records show your Nebulon Gives enrollment is incomplete. To avoid missing this year’s giving window, confirm your payroll contribution election immediately:\nhttp://nebuton-hr-portal[.]com/gives/confirm?token=8F2K19QW\nNebulon Gives Desk",
+  "links": [
+    {
+      "original": "http://nebuton-hr-portal[.]com/gives/confirm?token=8F2K19QW",
+      "resolved": "http://nebuton-hr-portal[.]com/gives/confirm?token=8F2K19QW"
+    }
+  ],
+  "attachments": []
+}

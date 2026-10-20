@@ -1,0 +1,18 @@
+{
+  "id": "conv_0052",
+  "headers": {
+    "from": "internal.it.services@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Remote Access Maintenance Window (Saturday 1–2 AM MDT)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello all,\nRemote access services will undergo routine maintenance this Saturday from 1:00–2:00 AM MDT. You may see brief disconnects if you are logged in during the window.\nFor more details, please visit: https://it.nebulon[.]com/maintenance-schedule\nThanks,\nIT Services",
+  "links": [
+    {
+      "original": "https://it.nebulon[.]com/maintenance-schedule",
+      "resolved": "https://it.nebulon[.]com/maintenance-schedule"
+    }
+  ],
+  "attachments": []
+}

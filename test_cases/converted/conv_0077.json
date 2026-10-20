@@ -1,0 +1,13 @@
+{
+  "id": "conv_0077",
+  "headers": {
+    "from": "compliance-department@gmail.com",
+    "to": "employee@company.com",
+    "subject": "Annual Policy Review Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear team,\nOur updated site conduct policies are now live. Please review the attached document and acknowledge today to avoid account restrictions.\nBest regards,\nHR Compliance Team\nAttachment: Updatd_Site_Conduct_Polcies_2026.pdf",
+  "links": [],
+  "attachments": []
+}

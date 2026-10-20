@@ -1,0 +1,18 @@
+{
+  "id": "conv_0082",
+  "headers": {
+    "from": "noreply@github.com",
+    "to": "employee@company.com",
+    "subject": "GitHub security alert",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Robert,\nWe detected a sign-in to your GitHub account from a new device. If this was you, you can ignore this message.\nIf not, we recommend updating your password from your account settings here: https://github-security.nebulon[.]com/account-settings\nThanks,\nGitHub",
+  "links": [
+    {
+      "original": "https://github-security.nebulon[.]com/account-settings",
+      "resolved": "https://github-security.nebulon[.]com/account-settings"
+    }
+  ],
+  "attachments": []
+}

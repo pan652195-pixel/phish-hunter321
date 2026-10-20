@@ -1,0 +1,18 @@
+{
+  "id": "conv_0128",
+  "headers": {
+    "from": "sonal.vyas@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Missing Incident Logs – August",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Team,\nWe’re missing August incident logs from Sites 11 and 14. Please upload them by Friday so we can close the monthly audit file. https://nebulon[.]com/incidentlogs?543211\nThanks,\nSonal",
+  "links": [
+    {
+      "original": "https://nebulon[.]com/incidentlogs?543211",
+      "resolved": "https://nebulon[.]com/incidentlogs?543211"
+    }
+  ],
+  "attachments": []
+}

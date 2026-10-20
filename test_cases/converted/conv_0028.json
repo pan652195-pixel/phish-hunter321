@@ -1,0 +1,13 @@
+{
+  "id": "conv_0028",
+  "headers": {
+    "from": "internal.it.services@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Scheduled Maintenance: Time-Series Archive (Read-Only Window)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nThe Time-Series Archive will be in read-only mode on Thursday from 7:00–8:00 PM MDT for routine indexing. Dashboards will remain available, but exports may be delayed during the window.\nThanks,\nIT Services",
+  "links": [],
+  "attachments": []
+}

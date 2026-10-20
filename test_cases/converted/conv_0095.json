@@ -1,0 +1,18 @@
+{
+  "id": "conv_0095",
+  "headers": {
+    "from": "facilities@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Parking Permit Renewal – Vehicle Information Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Michelle,\nYour parking permit renewal is ready to process. Please provide your vehicle license plate number and make/model by uploading the details here: https://parking.nebulon[.]com/permit-renewal\nThanks,\nFacilities & Security",
+  "links": [
+    {
+      "original": "https://parking.nebulon[.]com/permit-renewal",
+      "resolved": "https://parking.nebulon[.]com/permit-renewal"
+    }
+  ],
+  "attachments": []
+}

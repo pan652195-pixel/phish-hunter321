@@ -1,0 +1,13 @@
+{
+  "id": "conv_0139",
+  "headers": {
+    "from": "legalhold@nebulon-compliance.com",
+    "to": "employee@company.com",
+    "subject": "Legal Hold Notice – Acknowledgement Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nA legal hold is in effect for Project Riverbend. Open the attached acknowledgement form and return it by end of day to avoid access restrictions.\nLegal Hold Desk\nAttachment: LegalHold_Acknowledgement_Form.pdf.exe",
+  "links": [],
+  "attachments": []
+}

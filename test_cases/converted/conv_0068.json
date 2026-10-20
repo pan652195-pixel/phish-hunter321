@@ -1,0 +1,18 @@
+{
+  "id": "conv_0068",
+  "headers": {
+    "from": "dispatch.logistics@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Equipment Transfer – Site 14 to Site 3",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nTransfer details changed overnight. Confirm the updated drop location here:\nhttp://logistics[.]com/transfer/site14-site3\nDispatch Logistics",
+  "links": [
+    {
+      "original": "http://logistics[.]com/transfer/site14-site3",
+      "resolved": "http://logistics[.]com/transfer/site14-site3"
+    }
+  ],
+  "attachments": []
+}

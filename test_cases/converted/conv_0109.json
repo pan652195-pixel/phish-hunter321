@@ -1,0 +1,18 @@
+{
+  "id": "conv_0109",
+  "headers": {
+    "from": "hr@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Wellness Survey: Enter to Win a Gift Card",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nHR is running a brief wellness survey this month. Everyone who participates by July 22 will be entered into a random drawing for a gift card.\nPlease take the survey here: https://hr.nebulon[.]com/wellness-survey\nThanks,\nHR Team",
+  "links": [
+    {
+      "original": "https://hr.nebulon[.]com/wellness-survey",
+      "resolved": "https://hr.nebulon[.]com/wellness-survey"
+    }
+  ],
+  "attachments": []
+}

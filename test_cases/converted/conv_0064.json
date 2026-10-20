@@ -1,0 +1,18 @@
+{
+  "id": "conv_0064",
+  "headers": {
+    "from": "itservices@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Site 14 – Turbine Status Check (Morning Round)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Dana,\nWe’re updating the dispatch record for Site 14. Please confirm the turbine status using the Operations form:\nhttp://nebulon.net.ops-status[.]com/site14\nThanks,\nOPS Dispatch",
+  "links": [
+    {
+      "original": "http://nebulon.net.ops-status[.]com/site14",
+      "resolved": "http://nebulon.net.ops-status[.]com/site14"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0020",
+  "headers": {
+    "from": "billing@travelexpenses-support.com",
+    "to": "employee@company.com",
+    "subject": "Receipt Needed – Travel Expense Report TR-10483",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nYour expense report TR-10483 is on hold pending receipt upload. Upload the missing receipt here: https://nebulontravel[.]com/expense/upload/TR-10483\nThank you,\nTravel Expense Desk",
+  "links": [
+    {
+      "original": "https://nebulontravel[.]com/expense/upload/TR-10483",
+      "resolved": "https://nebulontravel[.]com/expense/upload/TR-10483"
+    }
+  ],
+  "attachments": []
+}

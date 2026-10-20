@@ -1,0 +1,18 @@
+{
+  "id": "conv_0096",
+  "headers": {
+    "from": "facilities.security@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Visitor Parking Request – Vehicle Details",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Daniel,\nFor your visitor on May 15, please upload the visitor’s vehicle make/model and license plate so we can authorize entry at the front gate here: https://security.nebulon[.]com/visitor/entry-authorization.\nThanks,\nFacilities Security",
+  "links": [
+    {
+      "original": "https://security.nebulon[.]com/visitor/entry-authorization.",
+      "resolved": "https://security.nebulon[.]com/visitor/entry-authorization."
+    }
+  ],
+  "attachments": []
+}

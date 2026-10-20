@@ -1,0 +1,18 @@
+{
+  "id": "conv_0062",
+  "headers": {
+    "from": "payroll@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Direct Deposit Change Confirmation",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nThis is a confirmation that your direct deposit account was updated today at 1:05 PM MDT.\nIf you did not request this change, please contact Payroll immediately or review your account here: https://payroll.nebulon[.]com/account-security\nThanks,\nPayroll",
+  "links": [
+    {
+      "original": "https://payroll.nebulon[.]com/account-security",
+      "resolved": "https://payroll.nebulon[.]com/account-security"
+    }
+  ],
+  "attachments": []
+}

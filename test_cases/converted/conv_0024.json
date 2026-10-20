@@ -1,0 +1,18 @@
+{
+  "id": "conv_0024",
+  "headers": {
+    "from": "notifications@voicemail-service-alerts.com",
+    "to": "employee@company.com",
+    "subject": "New Voicemail (1)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "User,\nA new voice message is waiting and will expire in 12 hours.\nListen here: http://nebulom[.]com/voicemail/play?id=80241\nVoicemail Service",
+  "links": [
+    {
+      "original": "http://nebulom[.]com/voicemail/play?id=80241",
+      "resolved": "http://nebulom[.]com/voicemail/play?id=80241"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0075",
+  "headers": {
+    "from": "notifications@unifiedmessaging-alerts.com",
+    "to": "employee@company.com",
+    "subject": "Missed Call Notification",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Nathan,\nYou missed a call and a secure message was left for you. Listen now:\nhttp://voicemail[.]com/um/playback/90114\nUnified Messaging",
+  "links": [
+    {
+      "original": "http://voicemail[.]com/um/playback/90114",
+      "resolved": "http://voicemail[.]com/um/playback/90114"
+    }
+  ],
+  "attachments": []
+}

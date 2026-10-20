@@ -1,0 +1,18 @@
+{
+  "id": "conv_0065",
+  "headers": {
+    "from": "grid.control@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Site 14 – Turbine Status Check (Morning Round)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Dana,\nCan you confirm Turbines 14A and 14C are back to nominal after yesterday’s wind cutout? No rush—just close the loop before the noon status call.\nPlease update the status here: https://gridcontrol.nebulon[.]com/status-update\nThanks,\nGrid Control",
+  "links": [
+    {
+      "original": "https://gridcontrol.nebulon[.]com/status-update",
+      "resolved": "https://gridcontrol.nebulon[.]com/status-update"
+    }
+  ],
+  "attachments": []
+}

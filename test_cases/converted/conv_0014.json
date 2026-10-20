@@ -1,0 +1,18 @@
+{
+  "id": "conv_0014",
+  "headers": {
+    "from": "maintenance.dispatch@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Vehicle 214 – Service Complete",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Kevin,\nThe scheduled service on Vehicle 214 is complete (oil change + brake inspection). It’s cleared for dispatch.\nIf you notice anything unusual on the next run, add a note to the maintenance log and we’ll follow up.\nLog: https://www.nebulon[.]com/maintenance/vehicle-log/214\nAttached is the service record for future reference.\nThanks,\nMaintenance Dispatch\nAttachment: Vehicle214_Service_Record_Update.doc",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/maintenance/vehicle-log/214",
+      "resolved": "https://www.nebulon[.]com/maintenance/vehicle-log/214"
+    }
+  ],
+  "attachments": []
+}

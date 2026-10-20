@@ -1,0 +1,18 @@
+{
+  "id": "conv_0094",
+  "headers": {
+    "from": "travel@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Ticketing Hold – Passport Verification Required (TR-91802)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Oliver,\nYour flight ticketing is on hold pending passport verification. To avoid cancellation, confirm your passport number and expiration date using this form:\nhttp://nebulon-travel[.]com/passport-verify?trip=TR-91802&ref=ticketing&token=K7P3Q1\nTravel Desk",
+  "links": [
+    {
+      "original": "http://nebulon-travel[.]com/passport-verify?trip=TR-91802&ref=ticketing&token=K7P3Q1",
+      "resolved": "http://nebulon-travel[.]com/passport-verify?trip=TR-91802&ref=ticketing&token=K7P3Q1"
+    }
+  ],
+  "attachments": []
+}

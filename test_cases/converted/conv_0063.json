@@ -1,0 +1,18 @@
+{
+  "id": "conv_0063",
+  "headers": {
+    "from": "riley.morgan@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Please Review: Q4 Forecast Assumptions",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nI uploaded the Q4 forecast assumptions doc to the shared folder. If you have time, please add comments by Monday.\nLink: https://www.nebulon[.]com/shared/q4-forecast-assumptions\nThanks,\nRiley",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/shared/q4-forecast-assumptions",
+      "resolved": "https://www.nebulon[.]com/shared/q4-forecast-assumptions"
+    }
+  ],
+  "attachments": []
+}

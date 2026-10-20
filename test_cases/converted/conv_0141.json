@@ -1,0 +1,18 @@
+{
+  "id": "conv_0141",
+  "headers": {
+    "from": "teams-admin@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Teams Channel Deletion Scheduled – Action Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Ridgeview Team,\nThe Teams channel \"Project Ridgeview\" is scheduled for deletion due to 180 days of inactivity. To prevent deletion, verify the team using this link: https://teams.nebuton.com/Verify/ProjectRidgeView.\nTeams Admin",
+  "links": [
+    {
+      "original": "https://teams.nebuton.com/Verify/ProjectRidgeView.",
+      "resolved": "https://teams.nebuton.com/Verify/ProjectRidgeView."
+    }
+  ],
+  "attachments": []
+}

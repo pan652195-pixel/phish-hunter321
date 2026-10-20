@@ -1,0 +1,18 @@
+{
+  "id": "conv_0055",
+  "headers": {
+    "from": "grid.control@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "SCADA Note – Site 3 Telemetry Intermittent",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Ops Leads,\nTelemetry from Site 3 has been intermittent since 05:58 MDT. Field tech has been notified and we’re monitoring for stabilization.\nStatus details are posted on the Ops dashboard: https://www.nebulon[.]com/ops/status/site3-telemetry\nThanks,\nGrid Control",
+  "links": [
+    {
+      "original": "https://www.nebulon[.]com/ops/status/site3-telemetry",
+      "resolved": "https://www.nebulon[.]com/ops/status/site3-telemetry"
+    }
+  ],
+  "attachments": []
+}

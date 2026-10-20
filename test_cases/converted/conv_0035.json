@@ -1,0 +1,13 @@
+{
+  "id": "conv_0035",
+  "headers": {
+    "from": "dispatch@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Dispatch Note – Site 7 Weather Delay",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Everyone,\nHeads up: forecasted lightning is delaying the Site 7 morning work order start by ~60 minutes. No change to the rest of today’s route plan.\nThanks,\nDispatch",
+  "links": [],
+  "attachments": []
+}

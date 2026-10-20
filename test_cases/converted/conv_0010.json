@@ -1,0 +1,13 @@
+{
+  "id": "conv_0010",
+  "headers": {
+    "from": "accounts.payable@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Invoice 77104 – Approval Requested (Contour Energy)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Finance Team,\nPlease review the attached invoice from Contour Energy for the February site maintenance scope. If everything looks correct, approve in the AP queue by Wednesday so we can pay on time.\nSummary:\n- Vendor: Contour Energy\n- Invoice: 77104\n- Amount: $18,406.11\n- Due: 03/20/2025\nThanks,\nAccounts Payable\nAttachment: ContourEnergy_Invoice_77104.pdf",
+  "links": [],
+  "attachments": []
+}

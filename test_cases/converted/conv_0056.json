@@ -1,0 +1,13 @@
+{
+  "id": "conv_0056",
+  "headers": {
+    "from": "grid.control@nebul0n.com",
+    "to": "employee@company.com",
+    "subject": "SCADA Note – Site 3 Telemetry Intermittent",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Ops Leads,\nTelemetry is still intermittent. Please confirm you received this alert so we can close the event record.\nThanks,\nGrid Control",
+  "links": [],
+  "attachments": []
+}

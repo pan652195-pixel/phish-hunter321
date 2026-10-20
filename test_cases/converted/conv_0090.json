@@ -1,0 +1,18 @@
+{
+  "id": "conv_0090",
+  "headers": {
+    "from": "vistors@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Visitor Pre-Registration Incomplete – Action Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Jordan,\nVisitor pre-registration is incomplete and may delay entry. Confirm the visitor names and arrival time here:\nhttp://nebulon[.]com/confirm?case=VR-4021&key=R4m2T9\nPlease complete this before end of day.\nVisitor Desk",
+  "links": [
+    {
+      "original": "http://nebulon[.]com/confirm?case=VR-4021&key=R4m2T9",
+      "resolved": "http://nebulon[.]com/confirm?case=VR-4021&key=R4m2T9"
+    }
+  ],
+  "attachments": []
+}

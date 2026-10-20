@@ -1,0 +1,13 @@
+{
+  "id": "conv_0124",
+  "headers": {
+    "from": "giving@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Nebulon Gives – Thank You!",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Priya,\nThanks for participating in Nebulon Gives. Attached is a certificate of appreciate for your wonderful donation. \nThanks,\nNebulon Gives Team\nAttachment: ThankYouforYourPledge.pdf",
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conv_0117",
+  "headers": {
+    "from": "wellness@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Step Challenge – Team Assignment Confirmed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Maya,\nYou’ve been added to Team \"Ridgeview Runners\" for the August Step Challenge.\nIf you’d like to switch teams, reply to this email and we’ll update the roster.\nThanks,\nWellness Team",
+  "links": [],
+  "attachments": []
+}

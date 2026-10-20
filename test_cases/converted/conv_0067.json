@@ -1,0 +1,18 @@
+{
+  "id": "conv_0067",
+  "headers": {
+    "from": "noreply@billingservlces.com",
+    "to": "employee@company.com",
+    "subject": "Action Required: Past Due Balance",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Rachel,\nOur records show an unpaid balance on your corporate card. Please review and submit payment now:\nhttps://billingservlces[.]com/billing/pay\nThank you,\nBilling Services",
+  "links": [
+    {
+      "original": "https://billingservlces[.]com/billing/pay",
+      "resolved": "https://billingservlces[.]com/billing/pay"
+    }
+  ],
+  "attachments": []
+}

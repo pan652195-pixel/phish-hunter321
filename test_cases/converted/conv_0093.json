@@ -1,0 +1,18 @@
+{
+  "id": "conv_0093",
+  "headers": {
+    "from": "travel@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "International Travel Check: Passport Info Needed (TR-91802)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Oliver,\nFor Trip TR-91802 (international), the travel agency needs the passport details on file to ticket the flight.\nPlease submit your passport number and expiration date through the corporate travel portal: https://travel.nebulon[.]com/passport-submission\nThanks,\nNebulon Travel Desk",
+  "links": [
+    {
+      "original": "https://travel.nebulon[.]com/passport-submission",
+      "resolved": "https://travel.nebulon[.]com/passport-submission"
+    }
+  ],
+  "attachments": []
+}

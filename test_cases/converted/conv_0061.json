@@ -1,0 +1,18 @@
+{
+  "id": "conv_0061",
+  "headers": {
+    "from": "accounts.alert.payroll@nebul0n-support.com",
+    "to": "employee@company.com",
+    "subject": "Direct Deposit Change Confirmation",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear User,\nYour direct deposit update could not be verified. To avoid a rejected paycheck, re-confirm your banking details immediately:\nhttps://nebulon[.]com/payroll/reconfirm\nPayroll Services",
+  "links": [
+    {
+      "original": "https://nebulon[.]com/payroll/reconfirm",
+      "resolved": "https://nebulon[.]com/payroll/reconfirm"
+    }
+  ],
+  "attachments": []
+}

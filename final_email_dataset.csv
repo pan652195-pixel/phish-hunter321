@@ -1,0 +1,720 @@
+"record_id","theme","date","sender","recipient","subject","body","true_label","has_link","has_attachment","has_generic_greeting","has_urgent_language","has_external_sender","has_request_personal_information","total_signals"
+"phish1","Compliance/policy acknowledgements & surveys","02/06/2025, 09:18:03 AM","compliance-dept@nebulon-policy.com","site-ops@nebulon.com","Annual Policy Review – Final Notice","Hello,
+Your annual policy acknowledgement is past due and must be completed today to avoid access restrictions.
+Open the attached form and confirm your employee ID and network password to complete verification. If the attachment does not open, use this link instead: https://nebulon-policy[.]com/nebulon/policy-acknowledgement
+Regards,
+HR Compliance Desk
+Attachment: Updated_Site_Conduct_Policies_2025.pdf.zip","phish",1,1,1,1,1,1,6
+"legit1","Compliance/policy acknowledgements & surveys","02/06/2025, 09:14:22 AM","compliance.ops@nebulon.com","site-ops@nebulon.com","Annual Policy Review – Acknowledgement Needed by Friday","Hi Site Ops Team,
+The updated Nebulon Site Conduct Policy for 2025 is ready for review. Please read the attached PDF and acknowledge in the compliance tracker by Friday EOD so we can close out the annual requirement.
+If you have questions on the changes (Section 4: visitor access; Section 7: reporting), reply to this thread, and we’ll route them to Legal.
+Thanks,
+Compliance Operations
+Attachment: Nebulon_Site_Conduct_Policy_2025.pdf","legit",0,1,0,1,0,0,2
+"phish2","HR/payroll/benefits administration","02/11/2025, 10:09:58 AM","payroll-processing@nebulon.com","tamara.greer@nebulon.com","Payroll Adjustment – Confirmation Needed","Hello,
+We’re processing your retro payroll adjustment but the record is missing required identifiers. Reply to this email with your employee ID and the bank account number used for direct deposit so we can release the adjustment.
+Thank you,
+Payroll Processing Team","phish",0,0,1,0,0,1,2
+"legit2","HR/payroll/benefits administration","02/11/2025, 10:06:41 AM","payroll@nebulon-payrollsupport.com","tamara.greer@nebulon.com","Payroll Adjustment – Confirmation Needed","Hi Tamara,
+We’re processing the retro payroll adjustment tied to your January role change. Can you please confirm which cost center the adjustment should charge to (per your manager’s note: either CC-2147 or CC-2190) and whether it should be split across both?
+Once you reply, we’ll queue it for the next payroll run.
+Thanks,
+Nebulon Payroll Processing","legit",0,0,0,0,1,0,1
+"legit3","IT maintenance / access continuity","02/18/2025, 01:22:09 PM","internal.it.services@nebulon.com","daniel.kim@nebulon.com","VPN Client Update Available (v5.4.2)","Hi Daniel,
+A routine update for the Nebulon VPN client (v5.4.2) is now available. No action is required unless you see an update prompt when you connect.
+Release notes and the install window are posted on the IT updates page: https://www.nebulon[.]com/it-upgrades/vpn-client-5-4-2
+Thanks,
+IT Services","legit",1,0,0,0,0,0,1
+"phish3","IT maintenance / access continuity","02/18/2025, 01:27:41 PM","it-notice@nebulon.com","daniel.kim@nebulon.com","VPN Client Update Available (v5.4.2)","Greetings,
+A VPN security update (v5.4.2) is pending for your account. To prevent sign-in errors, confirm your VPN username and current password by replying to this message.
+If you do not respond, your remote access may be temporarily disabled during the upgrade cycle.
+Thanks,
+Nebulon VPN Support","phish",0,0,1,1,0,1,3
+"phish4","Finance/AP/vendor billing","02/24/2025, 08:52:03 AM","quotes@northbridge-electrical.com","alyssa.patel@nebulon.com","Quote Received – Site 5 Replacement Breakers","Hi,
+As requested, please see the attached revised quote for the Site 5 replacement breakers. To confirm release for shipment, reply with the PO number and the billing contact name. We need this ASAP.
+Thank you,
+NorthBridge Electrical Quotes
+Attachment: Site5_Breakers_Quote_Rev2.pdf.exe","phish",0,1,1,1,1,0,4
+"legit4","Finance/AP/vendor billing","02/24/2025, 08:47:16 AM","quotes@northbridge-electrical.com","alyssa.patel@nebulon.com","Quote Received – Site 5 Replacement Breakers","Hi Alyssa,
+We received the vendor quote for the Site 5 replacement breakers. The attached PDF includes the part numbers, lead times, and the freight estimate.
+Please confirm the quantity and shipping location (Site 5 vs. Central Warehouse) ASAP so we can issue the PO.
+Thanks,
+NorthBridge Electrical Quotes
+Attachment: Site5_Replacement_Breakers_Quote.pdf","legit",0,1,0,1,1,0,3
+"legit5","Operations/field/grid dispatch","03/03/2025, 04:05:28 PM","facilities@nebulon-facilities.com","marcos.hernandez@nebulon.com","Badge Access – Building 9 Lab (Request Clarification)","Hi Marcos,
+We received your request for Building 9 Lab access. Before we route it for approval, can you confirm the access window you need (start/end date) and which rooms (9-210, 9-212, or both)?
+Once you reply, we’ll submit the ticket to Security for provisioning.
+Thanks,
+Facilities Service Desk","legit",0,0,0,0,1,0,1
+"phish6","Finance/AP/vendor billing","03/10/2025, 09:41:07 AM","billing@contourenergy.con","finance.team@nebulon.com","Invoice 77104 – Approval Requested (Contour Energy)","Hello,
+Please review the attached invoice for February site maintenance. To avoid late fees, confirm approval today using the payment portal:
+http://nebulon[.]com/contour/approve-invoice/77104
+If you have questions, reply to this email.
+Thanks,
+Billing Team
+Attachment: ContourEnergy_Invoice_77104.pdf","phish",1,1,1,1,0,0,4
+"legit6","Finance/AP/vendor billing","03/03/2025, 09:33:51 AM","accounts.payable@nebulon.com","finance.team@nebulon.com","Invoice 77104 – Approval Requested (Contour Energy)","Hi Finance Team,
+Please review the attached invoice from Contour Energy for the February site maintenance scope. If everything looks correct, approve in the AP queue by Wednesday so we can pay on time.
+Summary:
+- Vendor: Contour Energy
+- Invoice: 77104
+- Amount: $18,406.11
+- Due: 03/20/2025
+Thanks,
+Accounts Payable
+Attachment: ContourEnergy_Invoice_77104.pdf","legit",0,1,0,0,0,0,1
+"phish7","HR/payroll/benefits administration","03/17/2025, 02:26:03 PM","benefits@nebulon-hrsupport.com","priya.nair@nebulon.com","Benefits Enrollment Reminder (New Hire – 30-Day Window)","Hi Priya,
+Your benefits enrollment is still incomplete. To prevent coverage delays, reply with your full name, date of birth, and home address so we can finish setup on your behalf.
+Thank you,
+Benefits Support","phish",0,0,0,1,1,1,3
+"legit7","HR/payroll/benefits administration","03/17/2025, 02:18:44 PM","hr.onboarding@nebulon-hrsupport.com","priya.nair@nebulon.com","Benefits Enrollment Reminder (New Hire – 30-Day Window)","Hi Priya,
+Quick reminder that your benefits enrollment window closes 30 days after your start date. If you’ve already submitted your selections, you can disregard this email.
+You can review options and enroll through the HR portal: https://www.nebulon[.]com/hr/benefits-portal
+Best,
+Janelle
+HR Onboarding","legit",1,0,0,0,1,0,2
+"phish8","Operations/field/grid dispatch","03/25/2025, 11:12:39 AM","dispatch.notice@nebulon.com","kevin.brooks@nebulon.com","Vehicle 214 – Service Complete","Hello,
+Vehicle 214 was marked complete, but the service record cannot be posted due to a verification error. Please open the attached form and confirm the driver assignment for the next dispatch run.
+Thanks,
+Fleet Maintenance Alerts
+Attachment: Vehicle214_Service_Record_Update.docm","phish",0,1,1,0,0,0,2
+"legit8","Operations/field/grid dispatch","03/25/2025, 11:07:12 AM","maintenance.dispatch@nebulon.com","kevin.brooks@nebulon.com","Vehicle 214 – Service Complete","Hi Kevin,
+The scheduled service on Vehicle 214 is complete (oil change + brake inspection). It’s cleared for dispatch.
+If you notice anything unusual on the next run, add a note to the maintenance log and we’ll follow up.
+Log: https://www.nebulon[.]com/maintenance/vehicle-log/214
+Attached is the service record for future reference.
+Thanks,
+Maintenance Dispatch
+Attachment: Vehicle214_Service_Record_Update.doc","legit",1,1,0,0,0,0,2
+"legit9","Operations/field/grid dispatch","04/02/2025, 07:54:30 AM","infohub.alerts@nebulon.com","gridops-east@nebulon.com","Alert Resolved: Voltage Sag – Feeder 3C (Site 11)","GridOps East,
+The voltage sag event on Feeder 3C (Site 11) at 07:32 CDT has cleared. No protective relays tripped and the feeder returned to nominal within 38 seconds.
+Event details are available in InfoHub: https://www.nebulon[.]com/infohub/events/site11-feeder3c-20250402
+Thanks,
+InfoHub Monitoring","legit",1,0,1,0,0,0,2
+"legit10","Finance/AP/vendor billing","04/09/2025, 03:16:02 PM","legal-contracts@nebulon.com","project-leads@nebulon.com","Action Requested: Vendor NDA Template v3 (for New SOWs)","Hello Project Leads,
+We published NDA Template v3 to address the updated data handling language. Please use this version for any new vendor SOWs starting April 15.
+The template is attached and is available here: https://www.nebulon[.]com/legal/templates/nda-v3
+Thanks,
+Legal Contracts
+Attachment: NDA_Template_v3.pdf","legit",1,1,1,0,0,0,3
+"phish10","Finance/AP/vendor billing","04/09/2025, 03:21:47 PM","contracts@legalupdates.com","project-leads@nebulon.com","Action Requested: Vendor NDA Template v3 (for New SOWs)","Dear Project Leads,
+A revised NDA template is attached for immediate use. Please review and confirm receipt by opening the file and completing the acknowledgement fields.
+Regards,
+Legal Updates Desk
+Attachment: NDA_Template_v3.pdf.exe","phish",0,1,1,0,1,0,3
+"legit11","Document sharing/collaboration prompts","04/16/2025, 09:08:27 AM","sharepoint@nebulon-sharepoint-access.com","maya.thompson@nebulon.com","Shared Folder Permissions Updated – GridOps Q2","Hi Maya,
+FYI—your access to the GridOps Q2 shared folder was updated to include edit permissions. No further action needed.
+Thanks,
+Nebulon Share Services","legit",0,0,0,0,1,0,1
+"legit12","Finance/AP/vendor billing","04/23/2025, 01:44:10 PM","accounts.payable@nebulon.com","joshua.reed@nebulon.com","Receipt Needed – Travel Expense Report TR-10483","Hi Joshua,
+Could you upload the hotel receipt for Expense Report TR-10483 soon? The report is otherwise ready to close.
+Upload the missing receipt here: https://nebulon[.]com/expense/upload/TR-10483
+Thanks,
+Accounts Payable","legit",1,0,0,1,0,0,2
+"phish12","Finance/AP/vendor billing","04/23/2025, 01:49:26 PM","billing@travelexpenses-support.com","joshua.reed@nebulon.com","Receipt Needed – Travel Expense Report TR-10483","Hi,
+Your expense report TR-10483 is on hold pending receipt upload. Upload the missing receipt here: https://nebulontravel[.]com/expense/upload/TR-10483
+Thank you,
+Travel Expense Desk","phish",1,0,1,0,1,0,3
+"phish13","Shipping/delivery notifications","05/01/2025, 08:18:31 AM","usps@shipping-status-center.com","dennis.laird@nebulon.com","Shipping Update – PO NBL-10427","Dear Dennis,
+Delivery is pending due to an address mismatch for PO NBL-10427. Please verify delivery details ASAP to avoid return-to-sender:
+http://shipping-status-center[.]com/ship/verify/NBL-10427
+Thanks,
+Shipping Support","phish",1,0,0,1,1,0,3
+"legit13","Shipping/delivery notifications","05/01/2025, 08:12:55 AM","vendor.portal@partstek.com","dennis.laird@nebulon.com","Shipping Update – PO NBL-10427","Your order PO NBL-10427 has shipped.
+Carrier: FedEx Freight
+ETA: May 3–6
+Track here: https://www.partstek[.]com/orders/NBL-10427
+Thanks,
+PartsTek Fulfillment","legit",1,0,1,0,1,0,3
+"legit14","Account/security notifications (IT/auth)","05/07/2025, 06:42:18 AM","security@nebulon.com","claire.wu@nebulon.com","Unusual Sign-in Attempt Detected","Hi Claire,
+We detected a sign-in to your Nebulon account from a new device (Windows / Chrome) at 06:38 MDT.
+If this was you, no action is required. If not, please reset your password from the Security Center at https://nebulon[.]com/security/passwordreset/unlock
+Thanks,
+Nebulon Security","legit",1,0,0,0,0,0,1
+"phish15","Voicemail/communications system alerts","05/12/2025, 10:23:08 AM","notifications@voicemail-service-alerts.com","ethan.morales@nebulon.com","New Voicemail (1)","User,
+A new voice message is waiting and will expire in 12 hours.
+Listen here: http://nebulom[.]com/voicemail/play?id=80241
+Voicemail Service","phish",1,0,1,0,1,0,3
+"legit15","Voicemail/communications system alerts","05/12/2025, 10:19:37 AM","notifications@voicemail.com","ethan.morales@nebulon.com","New Voicemail (1)","Hi Ethan,
+You received a new voicemail.
+Received: 10:14 AM MDT
+Duration: 0:22
+You can listen from the Nebulon voicemail portal.
+Thanks,
+Nebulon Unified Messaging","legit",0,0,0,0,1,0,1
+"legit16","Account/security notifications (IT/auth)","05/20/2025, 02:06:11 PM","internal.it.services@nebulon.com","noah.singh@nebulon.com","Password Reset Requested","Hi Noah,
+A password reset was requested for your Nebulon account at 2:04 PM MDT.
+If you initiated this request, please complete it from the workstation sign-in screen. If you did not, contact the Service Desk.
+Thanks,
+IT Services","legit",0,0,0,0,0,0,0
+"phish17","IT maintenance / access continuity","05/28/2025, 07:34:22 AM","internal.it.services@nebulon.com","analytics-team@nebulon.com","Scheduled Maintenance: Time-Series Archive (Read-Only Window)","Hi team,
+Maintenance is scheduled tonight. If you experience access issues, install the attached 'connectivity patch' before 6 PM to avoid session failures.
+IT Services
+Attachment: Nebulon_Access_Patch_2025.msi","phish",0,1,1,1,0,0,3
+"legit17","IT maintenance / access continuity","05/28/2025, 07:31:05 AM","internal.it.services@nebulon.com","analytics-team@nebulon.com","Scheduled Maintenance: Time-Series Archive (Read-Only Window)","Hello team,
+The Time-Series Archive will be in read-only mode on Thursday from 7:00–8:00 PM MDT for routine indexing. Dashboards will remain available, but exports may be delayed during the window.
+Thanks,
+IT Services","legit",0,0,1,0,0,0,1
+"legit18","Document sharing/collaboration prompts","06/04/2025, 11:03:46 AM","project.controls@nebulon.com","sarah.bennett@nebulon.com","Draft Scope Doc – Comments Requested","Hi Sarah,
+Can you review the draft scope doc for the Ridgeview controls upgrade and add comments by the end of the day? Review and comment here:
+https://nebulon[.]com/doc/review/ridgeview-scope
+Thanks,
+Project Controls","legit",1,0,0,1,0,0,2
+"phish18","Document sharing/collaboration prompts","06/04/2025, 11:07:12 AM","sharepoint@sharepoint-nebulon.com","sarah.bennett@nebulon.com","Draft Scope Doc – Comments Requested","Hello,
+A document titled ""Draft Scope Doc – Ridgeview Controls"" has been shared with you. Review and comment here:
+http://nebulon[.]com/doc/review/ridgeview-scope
+SharePoint","phish",1,0,1,0,0,0,2
+"phish19","Compliance/policy acknowledgements & surveys","06/11/2025, 03:33:54 PM","compliance@regulatory-forms.com","site-leads@nebulon.com","Q2 Environmental Checklist – Submission Reminder","Hi team,
+The Q2 checklist is still pending for your site. Please complete the attached form and return it to this email thread.
+Thanks,
+Compliance Operations
+Attachment: Q2_Environmental_Checklist.docm","phish",0,1,1,0,1,0,3
+"legit19","Compliance/policy acknowledgements & surveys","06/11/2025, 03:28:09 PM","compliance@nebulon.com","site-leads@nebulon.com","Q2 Environmental Checklist – Submission Reminder","Hello Site Leads,
+Reminder to submit the Q2 environmental checklist by end of day Friday. If you’ve already uploaded yours, thank you.
+Regards,
+Compliance Operations","legit",0,0,1,0,0,0,1
+"legit20","Finance/AP/vendor billing","06/18/2025, 09:12:03 AM","finance.ops@nebulon.com","elena.garcia@nebulon.com","Q2 Reconciliation Spreadsheet – Updated Version","Hi Elena,
+We posted an updated version of the Q2 reconciliation spreadsheet with the corrected vendor codes. Please use this version for any new entries going forward.
+Thanks,
+Finance Ops
+Attachment: Q2_Reconciliation_Updated.xls","legit",0,1,0,0,0,0,1
+"phish20","Finance/AP/vendor billing","06/18/2025, 09:15:49 AM","finance.ops@nebulon-finance.com","elena.garcia@nebulon.com","Q2 Reconciliation Spreadsheet – Updated Version","Hi Elena,
+Please see the updated reconciliation sheet attached. It includes the vendor code changes requested on yesterday’s call.
+Make sure to review before noon so we can close the batch.
+Thanks,
+Finance Ops
+Attachment: Q2_Reconciliation_Updated.xlsm","phish",0,1,0,1,1,0,3
+"legit21","Operations/field/grid dispatch","06/25/2025, 05:58:33 AM","dispatch@nebulon.com","field.ops-south@nebulon.com","Dispatch Note – Site 7 Weather Delay","Hi Everyone,
+Heads up: forecasted lightning is delaying the Site 7 morning work order start by ~60 minutes. No change to the rest of today’s route plan.
+Thanks,
+Dispatch","legit",0,0,1,0,0,0,1
+"phish21","Operations/field/grid dispatch","06/25/2025, 06:03:20 AM","dispatch@nebulon.com","field.ops-south@nebulon.com","Dispatch Note – Site 7 Weather Delay","Hi Everyone,
+Updated route plan is posted. Please review before leaving the yard:
+http://nebuloon[.]com/dispatch/site7-route-update
+Dispatch","phish",1,0,0,0,0,0,1
+"phish22","Shipping/delivery notifications","07/02/2025, 01:31:19 PM","tracking@fright-appointments.com","hannah.kline@nebulon.com","Delivery Scheduled – PO NBL-10988 (Dock Appointment)","Hi Hannah,
+Your dock appointment request is pending confirmation. Open the attached confirmation to finalize the time window.
+Thank you,
+Freight Appointments
+Attachment: Dock_Appointment_Confirmation_NBL-10988.pdf","phish",0,1,0,0,1,0,2
+"legit22","Shipping/delivery notifications","07/02/2025, 01:26:44 PM","receiving@nebulon-shipping.com","hannah.kline@nebulon.com","Delivery Scheduled – PO NBL-10988 (Dock Appointment)","Hi Hannah,
+Receiving scheduled a dock appointment for PO NBL-10988 on July 3 between 9:00–11:00 AM. If the shipment needs a lift gate, let us know and we’ll update the carrier notes.
+Thanks,
+Receiving","legit",0,0,0,0,1,0,1
+"legit23","Account/security notifications (IT/auth)","07/09/2025, 09:05:12 AM","messagingservices@nebulon.com","olivia.hart@nebulon.com","Notice: Mailbox Near Quota","Hi Olivia,
+Your mailbox is at 92% of its storage quota. If you reach the limit, new messages may be delayed.
+You can reduce usage by deleting large attachments or moving older items to your archive folder.
+Manage your mailbox here: https://messaging.nebulon[.]com/mailbox-management
+Thanks,
+Messaging Services","legit",1,0,0,0,0,0,1
+"phish23","Account/security notifications (IT/auth)","07/09/2025, 09:08:46 AM","service@nebulon.com","olivia.hart@nebulon.com","Notice: Mailbox Near Quota","Hi Olivia,
+Your mailbox is near its limit and may stop receiving messages. Increase your quota here:
+https://rebulon[.]com/mail/upgrade-quota
+Messaging Admin","phish",1,0,0,1,0,0,2
+"legit24","HR/payroll/benefits administration","07/16/2025, 02:41:09 PM","hr@nebulon.com","devon.price@nebulon.com","Open Enrollment: Dependent Verification (If Applicable)","Hi Devon,
+During open enrollment, dependent verification is required only if you added a new dependent this year. If that doesn’t apply, you can ignore this message.
+If you did add a dependent, upload the required documents through the HR portal here: https://hrportal.nebulon[.]com/dependent-verification
+Thanks,
+HR Benefits","legit",1,0,0,0,0,0,1
+"phish24","HR/payroll/benefits administration","07/16/2025, 02:45:26 PM","benefits@nebulon-hr.com","devon.price@nebulon.com","Open Enrollment: Dependent Verification (If Applicable)","Hi Devon,
+Your enrollment record shows dependent verification is incomplete. Upload the documents using the secure portal:
+http://nebulonhrinfotaker[.]com/hr/dependent-verify
+HR Benefits","phish",1,0,0,0,1,0,2
+"legit25","Finance/AP/vendor billing","07/23/2025, 10:17:40 AM","billing@arcservcloud.com","marcus.ivey@nebulon.com","ArcServ Cloud Invoice – July Statement Available","Dear Valued Customer,
+Your July statement is available. Attached is the invoice summary for ArcServ Cloud Services.
+You can also view details in the billing portal: https://www.arcservcloud[.]com/billing/neb-jul2025
+Thank you,
+ArcServ Billing
+Attachment: ArcServ_Invoice_July2025.pdf","legit",1,1,1,0,1,0,4
+"phish25","Finance/AP/vendor billing","08/04/2025, 10:22:11 AM","billing@arcservcloud.com","marcus.ivey@nebulon.com","ArcServ Cloud Invoice – July Statement Available","Hi,
+Attached is the updated July invoice copy. Please review and process today to avoid service interruption.
+ArcServ Billing
+Attachment: ArcServ_Invoice_July2025.pdf.zip","phish",0,1,1,1,1,0,4
+"phish26","Shipping/delivery notifications","07/30/2025, 09:41:02 AM","receeving@nebulon.com","natalie.byrd@nebulon.com","Lab Courier Pickup – Address Confirmation (Site 11)","Hi Natalie,
+The courier pickup is pending due to an address validation error. Please confirm the pickup details here:
+https://nebulonreceving[.]com/pickup/validate/site11
+Receiving","phish",1,0,0,0,1,0,2
+"legit26","Shipping/delivery notifications","07/30/2025, 09:36:18 AM","support@envirotracklabs.com","natalie.byrd@nebulon.com","Lab Courier Pickup – Address Confirmation (Site 11)","Hi Natalie,
+Hi Natalie,
+We’re scheduling the courier pickup for the Site 11 sample kits tomorrow morning. Can you confirm the delivery address line for the receiving gate (building name + street number) so the driver checks in at the right location?
+Please confirm or update the address here: https://envirotrack[.]com/courier-confirmation
+Thanks,
+EnviroTrack Labs Support","legit",0,0,0,0,1,1,2
+"phish27","Document sharing/collaboration prompts","08/06/2025, 04:13:21 PM","onedrive@nebuIon.com","rachel.stone@nebulon.com","OneDrive: File Shared With You","Hi Rachel,
+A file was shared with you: ""Q3 Site Readiness Checklist""
+View file: http://nebuion[.]com/onedrive/view/q3-readiness
+OneDrive","phish",1,0,0,0,1,0,2
+"legit28","Account/security notifications (IT/auth)","08/13/2025, 07:22:40 AM","security@nebulon.com","liam.peterson@nebulon.com","Credential Expiration Notice","Hi Liam,
+Your credentials for the Remote Sensor Portal will expire in 7 days. If you use the portal, please plan to update your credentials during your next sign-in or update them now here: https://security.nebulon[.]com/credential-renewal
+Thanks,
+Nebulon Security","legit",0,0,0,0,0,0,0
+"phish28","Account/security notifications (IT/auth)","08/13/2025, 07:26:11 AM","credentials@nebulon.com","liam.peterson@nebulon.com","ACTION REQUIRED: Credential Expiration Notice","Hi Liam,
+Your Remote Sensor Portal credentials expire today. Revalidate access here:
+http://nebulon[.]com/rsp/reauthenticate
+IT Services","phish",1,0,0,1,0,0,2
+"legit29","Finance/AP/vendor billing","09/02/2025, 11:48:03 AM","noreply@gridmetrics.net","finance.ops@nebulon.com","GridMetrics Usage Summary – August","Hello,
+Your August GridMetrics usage summary is ready. Download the summary CSV from your dashboard:
+https://www.gridmetrics[.]net/dashboard/usage/august
+Thanks,
+GridMetrics Support","legit",1,0,1,0,1,0,3
+"phish30","IT maintenance / access continuity","08/27/2025, 03:10:59 PM","support@nebulon-access.com","all-staff@nebulon.com","Remote Access Maintenance Window (Action Required)","Hi,
+ACTION REQUIRED: Remote access maintenance is scheduled tonight. To avoid losing access, confirm your account status immediately:
+https://nebulon-access[.]com/nebulon/remote-access/confirm
+Failure to complete this step may result in temporary suspension.
+IT Support","phish",1,0,1,1,1,0,4
+"legit30","IT maintenance / access continuity","08/27/2025, 03:07:22 PM","internal.it.services@nebulon.com","all-staff@nebulon.com","Remote Access Maintenance Window (Saturday 1–2 AM MDT)","Hello all,
+Remote access services will undergo routine maintenance this Saturday from 1:00–2:00 AM MDT. You may see brief disconnects if you are logged in during the window.
+For more details, please visit: https://it.nebulon[.]com/maintenance-schedule
+Thanks,
+IT Services","legit",1,0,1,0,0,0,2
+"legit31","Compliance/policy acknowledgements & surveys","09/03/2025, 08:55:14 AM","compliance@nebulon.com","engineering@nebulon.com","Reminder: Q3 Ethics Acknowledgement","Good Morning,
+Reminder to complete the Q3 ethics acknowledgement in the compliance tracker by Friday.
+Thank you,
+Compliance Operations
+Attachment: Q3_Ethics_Acknowledgement_Form.pdf","legit",0,1,1,0,0,0,2
+"phish31","Compliance/policy acknowledgements & surveys","09/03/2025, 09:01:36 AM","compliance@hebulon.com","engineering@nebulon.com","Reminder: Q3 Ethics Acknowledgement","Engineering Team,
+The acknowledgement form is attached. You need to complete and return it by end of day.
+Thanks,
+Compliance Operations
+Attachment: Q3_Ethics_Acknowledgement_Form.docm","phish",0,1,0,1,0,0,2
+"legit32","Operations/field/grid dispatch","09/10/2025, 06:11:08 AM","grid.control@nebulon.com","ops-leads@nebulon.com","SCADA Note – Site 3 Telemetry Intermittent","Ops Leads,
+Telemetry from Site 3 has been intermittent since 05:58 MDT. Field tech has been notified and we’re monitoring for stabilization.
+Status details are posted on the Ops dashboard: https://www.nebulon[.]com/ops/status/site3-telemetry
+Thanks,
+Grid Control","legit",1,0,1,0,0,0,2
+"phish32","Operations/field/grid dispatch","09/10/2025, 06:16:43 AM","grid.control@nebul0n.com","ops-leads@nebulon.com","SCADA Note – Site 3 Telemetry Intermittent","Ops Leads,
+Telemetry is still intermittent. Please confirm you received this alert so we can close the event record.
+Thanks,
+Grid Control","phish",0,0,1,0,1,0,2
+"phish33","Account/security notifications (IT/auth)","09/17/2025, 12:26:02 PM","messaging.admin@mail-alerts.com","sophia.alvarez@nebulon.com","Mailbox Rule Created","Hi Sophia,
+We detected a new inbox rule that may redirect messages. Review recent activity here:
+http://nebulon[.]com/mail/rules/review
+Messaging Admin","phish",1,0,0,0,1,0,2
+"legit33","Account/security notifications (IT/auth)","09/17/2025, 12:23:19 PM","messaging.admin@service-nebulon.com","sophia.alvarez@nebulon.com","Mailbox Rule Created","Hi Sophia,
+A new inbox rule was created in your mailbox at 12:18 PM MDT.
+If you made this change, no action is needed. If you did not, please contact the Service Desk.
+Thanks,
+Messaging Administration","legit",0,0,0,0,0,0,0
+"phish34","Account/security notifications (IT/auth)","09/24/2025, 07:50:42 AM","security@nebulon-alerts.com","benjamin.ross@nebulon.com","Security Alert: Action Needed","Hi,
+URGENT: We detected unusual activity on your Nebulon account. Verify your SSN now to prevent suspension:
+https://nebulonalerts[.]com/nebulon/verify
+Nebulon Security Team","phish",1,0,1,1,1,0,4
+"legit34","Account/security notifications (IT/auth)","09/24/2025, 07:48:10 AM","security@nebulon-security.com","benjamin.ross@nebulon.com","Security Alert: Action Recommended","Hi Benjamin,
+We detected sign-in activity from a new device for your account. If this was you, no action is needed.
+If not, please contact the Service Desk or secure your account here: https://security.nebulon[.]com/account-help
+Thanks,
+Nebulon Security","legit",1,0,0,0,1,0,2
+"phish35","HR/payroll/benefits administration","10/01/2025, 01:17:58 PM","accounts.alert.payroll@nebul0n-support.com","kayla.nolan@nebulon.com","Direct Deposit Change Confirmation","Dear User,
+Your direct deposit update could not be verified. To avoid a rejected paycheck, re-confirm your banking details immediately:
+https://nebulon[.]com/payroll/reconfirm
+Payroll Services","phish",1,0,1,1,1,1,5
+"legit35","HR/payroll/benefits administration","10/01/2025, 01:14:27 PM","payroll@nebulon.com","kayla.nolan@nebulon.com","Direct Deposit Change Confirmation","Hello,
+This is a confirmation that your direct deposit account was updated today at 1:05 PM MDT.
+If you did not request this change, please contact Payroll immediately or review your account here: https://payroll.nebulon[.]com/account-security
+Thanks,
+Payroll","legit",1,0,1,0,0,0,2
+"legit36","Document sharing/collaboration prompts","10/08/2025, 09:32:06 AM","riley.morgan@nebulon.com","data-science@nebulon.com","Please Review: Q4 Forecast Assumptions","Hello team,
+I uploaded the Q4 forecast assumptions doc to the shared folder. If you have time, please add comments by Monday.
+Link: https://www.nebulon[.]com/shared/q4-forecast-assumptions
+Thanks,
+Riley","legit",1,0,1,0,0,0,2
+"phish38","Operations/field/grid dispatch","10/22/2025, 06:41:09 AM","itservices@nebulon.com","dana.hughes@nebulon.com","Site 14 – Turbine Status Check (Morning Round)","Hi Dana,
+We’re updating the dispatch record for Site 14. Please confirm the turbine status using the Operations form:
+http://nebulon.net.ops-status[.]com/site14
+Thanks,
+OPS Dispatch","phish",1,0,0,0,0,0,1
+"legit38","Operations/field/grid dispatch","10/22/2025, 06:37:44 AM","grid.control@nebulon.com","dana.hughes@nebulon.com","Site 14 – Turbine Status Check (Morning Round)","Hi Dana,
+Can you confirm Turbines 14A and 14C are back to nominal after yesterday’s wind cutout? No rush—just close the loop before the noon status call.
+Please update the status here: https://gridcontrol.nebulon[.]com/status-update
+Thanks,
+Grid Control","legit",0,0,0,0,0,0,0
+"legit39","Account/security notifications (IT/auth)","09/19/2025, 09:00:00 AM","security@nebulon.com","lainy.rod@nebulon.com","Unusual Sign-in Attempt Detected","Hi Lainy,
+We detected a sign-in to your Nebulon account from a new device (Windows / Chrome) at 08:55 MDT.
+If this was you, no action is required.
+If not, please reset your password here: https://nebulon[.]com/security/passwordreset/unlock
+Thanks,
+Nebulon Security","legit",1,0,0,0,0,0,1
+"phish41","Finance/AP/vendor billing","11/12/2025, 08:30:13 AM","noreply@billingservlces.com","rachel.mckay@nebulon.com","Action Required: Past Due Balance","Hi Rachel,
+Our records show an unpaid balance on your corporate card. Please review and submit payment now:
+https://billingservlces[.]com/billing/pay
+Thank you,
+Billing Services","phish",1,0,0,1,1,0,3
+"phish42","Operations/field/grid dispatch","11/19/2025, 05:48:59 AM","dispatch.logistics@nebulon.com","site14-crew@nebulon.com","Equipment Transfer – Site 14 to Site 3","Hi team,
+Transfer details changed overnight. Confirm the updated drop location here:
+http://logistics[.]com/transfer/site14-site3
+Dispatch Logistics","phish",1,0,0,1,0,0,2
+"legit42","Operations/field/grid dispatch","11/19/2025, 05:44:06 AM","dispatch.logistics@nebulon.com","site14-crew@nebulon.com","Equipment Transfer – Site 14 to Site 3","Hi team,
+The loader from Site 14 is scheduled to transfer to Site 3 on Friday morning. Please confirm the Site 3 crew will be available to unload by 10am.
+Schedule details are posted here: https://www.nebulon[.]com/equipment-transfer/schedule
+Thanks,
+Dispatch Logistics","legit",1,0,0,0,0,0,1
+"phish43","IT maintenance / access continuity","11/26/2025, 10:06:41 AM","support@nebulonalerts.net","zara.hassan@nebulon.com","System Maintenance Notification","URGENT ACTION REQUIRED!
+Failure to respond within 24 hours will result in suspension of your remote access. Confirm your access now:
+https://nebulonalerts[.]com/nebulon-access-check
+Nebulon Security Enforcement","phish",1,0,1,1,1,0,4
+"phish44","Shipping/delivery notifications","12/03/2025, 09:31:12 AM","usps@shipping-usps.com","kevin.tan@nebulon.com","Urgent: Delivery Issue – PO #NBL-11207","Dear Kevin,
+We have an issue with your shipping address for package NBL-11207. Please verify your address via the link below so we can complete delivery:
+http://shipping-usps[.]com/verify-address/NBL-11207
+Thanks,
+Shipping Team","phish",1,0,0,1,1,1,4
+"legit44","Shipping/delivery notifications","12/03/2025, 09:27:55 AM","vendor.portal@partstek.com","kevin.tan@nebulon.com","Shipping Confirmation – PO #NBL-11207","Hello Kevin,
+Your order NBL-12314 has shipped.
+Carrier: FedEx Freight
+ETA: Dec 5–7
+Track here: https://www.partstek[.]com/orders/NBL-12314
+No action is required.
+Thanks,
+PartsTek Fulfillment","legit",1,0,1,0,1,0,3
+"phish45","Finance/AP/vendor billing","12/10/2025, 02:21:07 PM","procurement.requests@nebul0n.com","cameron.li@nebulon.com","PO NBL-11390 – Signed Copy Needed","Hi Cameron,
+Please review the attached signed PO and confirm today so we can release it for invoicing.
+Thanks,
+Procurement
+Attachment: PO_NBL-11390_Signed_Vendor_Agreement.pdf.exe","phish",0,1,0,1,1,0,3
+"legit45","Finance/AP/vendor billing","12/10/2025, 02:16:38 PM","procurement.requests@nebulon.com","cameron.li@nebulon.com","PO NBL-11390 – Signed Copy Needed","Cameron,
+The vendor returned PO NBL-11390 signed (see attachment). Please countersign and reupload to the procurement folder when you get a chance.
+Thanks,
+Procurement
+Attachment: PO_NBL-11390_Signed_Vendor_Agreement.pdf","legit",0,1,0,0,0,0,1
+"phish47","Voicemail/communications system alerts","01/07/2026, 03:22:41 PM","notifications@unifiedmessaging-alerts.com","nathan.bishop@nebulon.com","Missed Call Notification","Hi Nathan,
+You missed a call and a secure message was left for you. Listen now:
+http://voicemail[.]com/um/playback/90114
+Unified Messaging","phish",1,0,0,0,1,0,2
+"phish48","Voicemail/communications system alerts","01/14/2026, 09:10:12 AM","notifications@voicemailservice.com","isabella.chen@nebulon.com","New Voicemail","User,
+A caller left an audio message.
+Date: Today
+Audio Length: 0:31
+Expiration: 24 Hours
+Listen: https://voicemail[.]com/vm/listen/44710
+Voicemail Service","phish",1,0,1,0,1,0,3
+"phish50","Compliance/policy acknowledgements & surveys","01/28/2026, 10:16:03 AM","compliance-department@gmail.com","all-staff@nebulon.com","Annual Policy Review Required","Dear team,
+Our updated site conduct policies are now live. Please review the attached document and acknowledge today to avoid account restrictions.
+Best regards,
+HR Compliance Team
+Attachment: Updatd_Site_Conduct_Polcies_2026.pdf","phish",0,1,1,1,1,0,4
+"legit50","Compliance/policy acknowledgements & surveys","01/28/2026, 10:11:45 AM","compliance@nebulon.com","all-staff@nebulon.com","Annual Policy Review Required","Dear team,
+The updated site conduct policies for 2026 are now posted. Please review and acknowledge by February 2.
+Thanks,
+Compliance Operations
+Attachment: NebulonSitePolicies.pdf","legit",0,0,1,1,0,0,2
+"legit51","Shipping/delivery notifications","01/28/2026, 10:16:03 AM","receiving@nebulon.com","leslie.taylor@nebulon.com","Delivery Update: Address Clarification Needed (Site Mail)","Hello,
+A shipment arrived at the main receiving dock, but the internal mail stop/site code on the label is incomplete. If you’re expecting a package delivered this week, please reply with your building number and mail stop so Receiving can route it correctly.
+Alternatively, you can update your delivery details here: https://receiving.nebulon[.]com/package-update
+Thanks,
+Receiving","legit",1,0,1,0,0,1,3
+"phish51","Shipping/delivery notifications","01/28/2026, 10:16:03 AM","alert@shipping-usps.com","lauren.johnson@nebulon.com","Urgent Delivery Issue","Hi,
+Your package has arrived. Unfortunately we made an error with your shipment because we have issues with your shipping address. Please verify your address via the link below so we can confirm that your address is eligible for the delivery.
+https://nebulon[.]com/addressneedednow?ref=delivery&token=K4Q9N2","phish",1,0,1,1,1,1,5
+"legit53","Document sharing/collaboration prompts","09/10/2025, 12:28:45 AM","it.collaboration@nebulon.com","robert.kane@nebulon.com","New Remote Meeting Software","Hi Robert,
+As part of Nebulon's ongoing efforts to enhance collaboration, we're transitioning to a new tool for remote meetings. We'll share training materials later this week and schedule short demos for each team.
+No action is required tonight. If you have questions, reply to this email or visit the internal FAQ here: https://itcollab.nebulon[.]com/faq
+Thanks,
+IT Collaboration Services","legit",1,0,0,0,0,0,1
+"legit54","Account/security notifications (IT/auth)","09/10/2025, 12:28:45 AM","noreply@github.com","robert.kane@nebulon.com","GitHub security alert","Hi Robert,
+We detected a sign-in to your GitHub account from a new device. If this was you, you can ignore this message.
+If not, we recommend updating your password from your account settings here: https://github-security.nebulon[.]com/account-settings
+Thanks,
+GitHub","legit",1,0,0,0,1,0,2
+"phish55","Account/security notifications (IT/auth)","11/25/2025, 08:35:00 AM","alert@security-neblon.com","noah.singh@nebulon.com","Urgent: MFA Enrollment Required Immediately","Dear User, 
+Enroll in multi-factor authentication now to avoid suspension on April 28th: http://security-nebulon[.]com/mfa-enroll 
+Urgent action required.","phish",1,0,1,1,1,0,4
+"legit55","Account/security notifications (IT/auth)","11/25/2025, 08:30:00 AM","security@nebulon.com","noah.singh@nebulon.com","Multi-Factor Authentication Enrollment Reminder","Hi Noah,
+Please enroll in multi-factor authentication by the end of the week to enhance your account security.
+Visit the Security Center here: https://security.nebulon[.]com/mfa-enroll
+Thanks,
+Nebulon Security Team","legit",1,0,0,0,0,0,1
+"phish56","Travel/calendar logistics","02/10/2026, 04:16:44 PM","travel@travel-logistics.com","robert.kane@nebulon.com","Calendar Update: Site Visit – Time Change (Mar 3)","Hello Robert,
+Your calendar update is pending approval. Confirm attendance now to avoid automatic cancellation:
+https://nebulon-calendar[.]com/confirm?event=site22&token=Q8m2K4
+Nebulon Travel Desk","phish",1,0,0,1,1,0,3
+"legit56","Travel/calendar logistics","02/10/2026, 04:12:09 PM","travel@nebulon.com","robert.kane@nebulon.com","Calendar Update: Site Visit – Time Change (Mar 3)","Hi Robert,
+The Site 22 visit on March 3 has been moved from 1:00–2:00 PM to 2:00–3:00 PM (same room). An updated calendar invite is attached.
+Thanks,
+Nebulon Travel & Scheduling
+Attachment: Site22_Visit_TimeChange.ics","legit",0,1,0,0,0,0,1
+"legit57","Travel/calendar logistics","03/18/2025, 04:22:16 PM","noreply@travel.nebulon.com","elizabeth.gould@nebulon.com","Trip Confirmation – Rental Car Reserved (TR-90614)","Hello,
+Your rental car reservation for Trip TR-90614 is confirmed.
+Pickup: Mar 23, 9:00 AM
+Return: Mar 25, 5:00 PM
+Location: Airport Rental Center
+Confirmation: RC-552901
+If anything changes, update it through the corporate travel portal.
+Thank you,
+Nebulon Travel System
+Attachment: Rental_Car_Reservation_TR-90614.pdf","legit",0,1,1,0,0,0,2
+"phish57","Travel/calendar logistics","03/18/2025, 04:26:59 PM","noreply@travel-nebulon.com","james.thompson@nebulon.com","Action Required – Rental Car Hold (TR-90614)","Hello,
+Your rental car reservation for Trip TR-90614 is on hold due to a payment verification error.
+Confirm traveler details to release the reservation:
+http://nebulon-travel[.]com/release?trip=TR-90614&auth=K7P3Q1
+This must be completed today or the reservation will be canceled.
+Travel Desk","phish",1,0,1,1,1,1,5
+"legit58","Travel/calendar logistics","03/25/2025, 07:09:44 AM","calendar@nebulon.com","samuel.ortiz@nebulon.com","Meeting Invitation: Vendor Kickoff (Video Link Included)","Hi Samuel,
+You’ve been invited to: Vendor Kickoff – Site 8 Backup Array
+Time: Mar 27, 10:00–10:30 AM MDT
+Organizer: Procurement
+Join via Teams: https://teams.nebulon[.]com/meet/7f3a9c
+Thanks,
+Nebulon Calendar Service","legit",1,0,0,0,0,0,1
+"phish59","Travel/calendar logistics","04/01/2025, 05:50:53 PM","vistors@nebulon.com","jordan.blake@nebulon.com","Visitor Pre-Registration Incomplete – Action Required","Hi Jordan,
+Visitor pre-registration is incomplete and may delay entry. Confirm the visitor names and arrival time here:
+http://nebulon[.]com/confirm?case=VR-4021&key=R4m2T9
+Please complete this before end of day.
+Visitor Desk","phish",1,0,0,1,1,1,4
+"legit59","Travel/calendar logistics","04/01/2025, 05:46:18 PM","visitors@nebulon.com","jordan.blake@nebulon.com","Visitor Pre-Registration Complete – Calendar Invite Attached","Hi Jordan,
+Your visitor pre-registration for Contour Energy (2 visitors) is complete for April 4. An updated calendar invite with the check-in location is attached.
+Thanks,
+Visitor & Travel Desk
+Attachment: Visitor_PreReg_April4.ics","legit",0,1,0,0,0,0,1
+"legit60","Travel/calendar logistics","04/08/2025, 08:11:27 AM","travel@nebulon.com","parker.lee@nebulon.com","Shuttle Pickup Confirmed – Site 12 Visit (TR-91330)","Hello,
+Shuttle pickup for Trip TR-91330 is confirmed.
+Pickup location: HQ West – Lobby A
+Pickup time: 6:15 AM (Apr 10)
+Driver will check in at the front desk.
+If you need to change your pickup location, please update your details here: https://travel.nebulon[.]com/shuttle-update
+Thanks,
+Nebulon Travel Desk","legit",1,0,1,0,0,0,2
+"legit61","Travel/calendar logistics","04/15/2025, 02:37:18 PM","travel@nebulon.com","oliver.james@nebulon.com","International Travel Check: Passport Info Needed (TR-91802)","Hi Oliver,
+For Trip TR-91802 (international), the travel agency needs the passport details on file to ticket the flight.
+Please submit your passport number and expiration date through the corporate travel portal: https://travel.nebulon[.]com/passport-submission
+Thanks,
+Nebulon Travel Desk","legit",1,0,0,0,0,1,2
+"phish61","Travel/calendar logistics","04/15/2025, 02:41:56 PM","travel@nebulon.com","oliver.james@nebulon.com","Ticketing Hold – Passport Verification Required (TR-91802)","Hello Oliver,
+Your flight ticketing is on hold pending passport verification. To avoid cancellation, confirm your passport number and expiration date using this form:
+http://nebulon-travel[.]com/passport-verify?trip=TR-91802&ref=ticketing&token=K7P3Q1
+Travel Desk","phish",1,0,0,1,1,1,4
+"legit63","Physical access/security","05/05/2025, 09:08:12 AM","facilities@nebulon.com","michelle.park@nebulon.com","Parking Permit Renewal – Vehicle Information Needed","Hi Michelle,
+Your parking permit renewal is ready to process. Please provide your vehicle license plate number and make/model by uploading the details here: https://parking.nebulon[.]com/permit-renewal
+Thanks,
+Facilities & Security","legit",1,0,0,0,0,1,2
+"legit65","Physical access/security","05/13/2025, 02:19:44 PM","facilities.security@nebulon.com","daniel.ramos@nebulon.com","Visitor Parking Request – Vehicle Details","Hi Daniel,
+For your visitor on May 15, please upload the visitor’s vehicle make/model and license plate so we can authorize entry at the front gate here: https://security.nebulon[.]com/visitor/entry-authorization.
+Thanks,
+Facilities Security","legit",1,0,0,0,0,1,2
+"phish65","Physical access/security","05/13/2025, 02:23:07 PM","facilities.security@nebulon.com","daniel.ramos@nebulon.com","Visitor Parking Request – Vehicle Details","Hi Daniel,
+We can’t approve visitor parking without registration verification. Please upload vehicle license plate and a photo/scan of the registration card so we can complete the request here: https://security[.]com/visitor/registration-upload
+Facilities Security","phish",1,0,0,0,0,1,2
+"phish67","Physical access/security","06/02/2025, 01:22:41 PM","security.operations@nebulon.com","victor.hayes@nebulon.com","After-Hours Access Request – On-Call Roster Confirmation","Hello Victor,
+Your after-hours access request cannot be approved until identity verification is completed. Please upload a photo of your badge (front/back) and your home address for verification to this link: https://NebuionSecurity[.]com/accessverification/approvals/38478374
+Security Operations","phish",1,0,0,0,0,1,2
+"legit67","Physical access/security","06/02/2025, 01:18:09 PM","security.operations@nebulon.com","victor.hayes@nebulon.com","After-Hours Access Request – On-Call Roster Confirmation","Hi Victor,
+We received a request to add you to the after-hours access list for Building 12 for this week’s on-call coverage.
+Please reply with the dates/times you need access (start/end) and your manager’s name so we can route the approval.
+Thanks,
+Security Operations","legit",0,0,0,0,0,0,0
+"phish68","Employee giving / donations campaign","01/21/2026, 12:41:08 PM","giving@neburon-gives.org","brian.rossano@nebulon.com","Nebulon Gives Enrollment – Action Required","Hello,
+Nebulon Gives is officially underway. Our records show your Nebulon Gives enrollment is incomplete. To avoid missing this year’s giving window, confirm your payroll contribution election immediately:
+http://nebuton-hr-portal[.]com/gives/confirm?token=8F2K19QW
+Nebulon Gives Desk","phish",1,0,1,1,1,1,5
+"legit68","Employee giving / donations campaign","01/21/2026, 12:36:51 PM","giving@nebulon.com","all-staff@nebulon.com","Nebulon Gives: Community, Connection, Compassion","Colleagues,
+Nebulon Gives is officially underway. The campaign runs Jan 12–30 across all Nebulon sites, in partnership with United Way.
+Even a small contribution—such as $1 per paycheck—adds up quickly when thousands of us participate, supporting programs that strengthen our local communities.
+Please take a moment to enroll through the HR portal when you’re ready: https://hrportal.nebulon[.]com/nebulon-gives
+Thank you,
+Executive Sponsor, Nebulon Gives","legit",1,0,1,0,0,0,2
+"legit69","Training & certifications","06/16/2025, 02:28:33 PM","learning.portal@nebulon.com","marco.rivas@nebulon.com","Training Enrollment Confirmed – Live Line Safety","Greetings,
+You’re enrolled in Live Line Safety Training.
+Session: June 24, 8:00–10:00 AM
+Location: East Region Training Center
+If you need to reschedule, contact the Training Team.
+Thanks,
+Learning Portal
+Attachment: JuneLiveLineTraining.docx","legit",0,1,1,0,0,0,2
+"phish69","Training & certifications","06/16/2025, 02:33:11 PM","notifications@learning-portal-support.com","marco.rivas@nebulon.com","Training Enrollment Confirmed – Live Line Safety","Hi,
+Your enrollment is pending verification. Open and sign the attached form them send it back to confirm your seat.
+Learning Support
+Attachment: LiveLine_Safety_Enrollment_Form.pdf.exe","phish",0,1,1,1,1,0,4
+"legit70","Training & certifications","06/23/2025, 08:41:06 AM","training@nebulon.com","liam.peterson@nebulon.com","Tabletop Exercise Follow-Up – Feedback Requested","Hi Liam,
+Thanks for participating in last week’s cyber tabletop exercise. When you have a moment, please complete and send back the short feedback survey so we can improve the next session: https://nebulon.com/training/cyber/feedback/84743.
+Thanks,
+Training Team
+Attachment: CyberTableTop_survey.pdf","legit",0,1,0,0,0,0,1
+"phish70","Training & certifications","06/23/2025, 08:45:39 AM","training@nebulon.com","liam.peterson@nebulon.com","Tabletop Exercise Follow-Up – Feedback Requested","Hello Liam,
+Your participation record is incomplete. To issue your completion certificate, verify your employee ID, SSN, and work location using the training link below:
+https://nebulon-training[.]com/verify?event=tabletop&token=R4m2T9
+Training Desk","phish",1,0,0,0,0,1,2
+"phish71","Survey / prize promotion","07/01/2025, 10:22:47 AM","survey@employee-rewards.com","diego.rivera@nebulon.com","Complete Survey to Win a Gift Card","Hello,
+You’ve been selected to participate in a short survey to win a gift card. Complete the survey now to claim your entry:
+https://employee-rewards[.]com/survey/start?token=K7P3Q1
+Survey Team","phish",1,0,1,1,1,0,4
+"legit71","Survey / prize promotion","07/01/2025, 10:18:22 AM","comms@nebulon.com","all-staff@nebulon.com","Thanks for Your Feedback – You’re Entered to Win a Gift Card","Hi team,
+Thanks to everyone who completed the employee feedback survey last week. If you submitted responses, you’ve been entered into the random drawing for one of ten $25 gift cards.
+Winners will be notified by email from Comms next week.
+Thanks,
+Communications","legit",0,0,1,0,0,0,1
+"phish72","Survey / prize promotion","07/08/2025, 09:10:58 AM","rewards@employee-prize-center.com","bradley.sanchez@nebulon.com","You’ve Been Selected: Gift Card Reward Pending","Hello,
+You’ve been selected for a gift card reward. Confirm your eligibility by completing this short survey:
+https://employee-prize-center[.]com/verify?award=giftcard&token=8F2K19QW
+Complete within 24 hours to avoid forfeiting the reward.
+Rewards Center","phish",1,0,1,1,1,0,4
+"legit73","Survey / prize promotion","07/15/2025, 01:42:19 PM","hr@nebulon.com","all-staff@nebulon.com","Wellness Survey: Enter to Win a Gift Card","Hello team,
+HR is running a brief wellness survey this month. Everyone who participates by July 22 will be entered into a random drawing for a gift card.
+Please take the survey here: https://hr.nebulon[.]com/wellness-survey
+Thanks,
+HR Team","legit",1,0,1,0,0,0,2
+"phish73","Survey / prize promotion","07/15/2025, 01:46:50 PM","noreply@giftcard-rewards.com","stella.smith@nebulon.com","Final Notice: Gift Card Reward Verification","Hi,
+Your gift card reward is pending verification. Verify your account to release the reward:
+https://giftcard-rewards[.]com/release?token=Q2X17K4
+Failure to verify today will cancel the reward.
+Rewards Team","phish",1,0,1,1,1,0,4
+"phish75","HR/payroll/benefits administration","07/29/2025, 03:26:41 PM","payroll@nebulon.com","field.techs@nebulon.com","Timecard Exception Report – Missing Submissions","Hi team,
+The exception report cannot be cleared until you confirm your timekeeping profile. Verify your employee ID using the link below:
+http://timekeeping-portal[.]com/verify?token=8F2K19QW
+Payroll","phish",1,0,1,0,0,1,3
+"legit75","HR/payroll/benefits administration","07/29/2025, 03:22:05 PM","payroll@nebulon.com","field.techs@nebulon.com","Timecard Exception Report – Missing Submissions","Hello team,
+The payroll exception report shows missing timecards for the current pay period. If you haven’t submitted yet, please do so before tomorrow morning so we can close payroll. You can review and submit your timecards here: https://payroll.nebulon[.]com/reports/exception
+Thanks,
+Payroll","legit",1,0,1,1,0,0,3
+"legit76","HR/payroll/benefits administration","08/05/2025, 08:14:37 AM","manager.notifications@nebulon.com","daniel.ramos@nebulon.com","Action Needed: Approve Direct Report Timecards","Hi Daniel,
+You have 2 direct report timecards awaiting approval for the current pay period. Please approve when you have time so payroll can process on schedule: https://payroll.nebulon[.]com/timecards/approval
+Thanks,
+Manager Notifications","legit",1,0,0,0,0,0,1
+"phish76","HR/payroll/benefits administration","08/05/2025, 08:18:52 AM","manager.notifications@payroll.com","daniel.ramos@nebulon.com","Action Needed: Approve Direct Report Timecards","Hi Daniel,
+Direct report timecards are queued but your manager approval session has expired. Re-authenticate to approve:
+https://payrolls[.]com/reauth?token=R4m2T9
+Failure to approve today will delay payroll.
+Manager Notifications","phish",1,0,0,1,1,0,3
+"legit77","Document sharing/collaboration prompts","03/16/2026, 09:00:00 AM","project.controls@nebulon.com","emily.ross@nebulon.com","Draft Scope Doc – Comments Requested","Hi Emily,
+Please review the draft scope doc for the Ridgeview controls upgrade and add comments by the end of the day.
+Review and comment here: https://nebulon[.]com/doc/review/ridgeview-scope
+Thanks,
+Project Controls","legit",1,0,0,1,0,0,2
+"phish77","Document sharing/collaboration prompts","03/16/2026, 09:05:00 AM","sharepoint@sharepoint-access.com","emily.ross@nebulon.com","Draft Scope Doc – Review Requested","Hello,
+A document titled ""Draft Scope Doc – Ridgeview Controls"" has been shared with you.
+Review it here: http://nebulon[.]net/doc/review/ridgeview-scope
+Thanks,
+SharePoint Team","phish",1,0,1,0,0,0,2
+"legit78","Employee wellness challenge","08/05/2025, 01:03:22 PM","wellness@nebulon.com","maya.thompson@nebulon.com","Step Challenge – Team Assignment Confirmed","Hi Maya,
+You’ve been added to Team ""Ridgeview Runners"" for the August Step Challenge.
+If you’d like to switch teams, reply to this email and we’ll update the roster.
+Thanks,
+Wellness Team","legit",0,0,0,0,0,0,0
+"legit79","Employee wellness challenge","08/12/2025, 09:34:18 AM","wellness@nebulon.com","all-staff@nebulon.com","Wellness Screening Sign-Up (Optional)","Hello team,
+As part of this quarter’s wellness program, we’re offering optional health screenings on-site next week (blood pressure, cholesterol, glucose).
+To schedule a time, use the Wellness page in the HR portal: https://wellness.hrportal.nebulon[.]com/schedule
+Thanks,
+Wellness Team","legit",1,0,1,0,0,0,2
+"phish79","Employee wellness challenge","08/12/2025, 09:38:52 AM","screenings@wellness-checks.com","henry.goldstein@nebulon.com","Wellness Screening Sign-Up (Time Slot Reserved)","Hi,
+A wellness screening time slot has been reserved for you. To confirm, reply with your date of birth and any current medications so we can complete the screening form before arrival.
+Please confirm your information here: http://wellness-confirm.nebulon[.]net/verify
+Wellness Screenings","phish",1,0,1,0,1,1,4
+"phish80","Employee wellness challenge","08/19/2025, 01:16:59 PM","donations@nebulon.com","samantha.davis@nebulon.com","Charity Miles Challenge – Donation Match Verification","Hello,
+Your donation match is pending verification. Fill out the form with your full name, home ZIP code, and the charity you selected so we can process the match soon.
+Charity Miles Center
+Attachment: Donation_Verification_Form.exe","phish",0,1,1,1,0,1,4
+"legit80","Employee wellness challenge","08/19/2025, 01:12:33 PM","wellness@nebulon.com","all-staff@nebulon.com","Charity Miles Challenge – Pick a Cause (Optional)","|
+Hi team,
+This month’s wellness challenge is a Charity Miles challenge. Every mile logged contributes to a donation pool, and you can choose which cause to support.
+You do not need to share routes or location—only total miles are counted.
+Thanks,
+Wellness Team
+Attachment: Wellness_Challenge_Rules.docx","legit",0,1,1,0,0,0,2
+"legit81","Document sharing/collaboration prompts","04/05/2026, 09:00:00 AM","project.controls@nebulon.com","emily.ross@nebulon.com","Draft Scope Doc – Comments Requested","Hi Emily,
+Please review the draft scope doc for the Ridgeview controls upgrade and add comments by the end of the day.
+Review and comment here: https://nebulon[.]com/doc/review/ridgeview-scope
+Thanks,
+Project Controls","legit",1,0,0,1,0,0,2
+"phish81","Employee giving / donations campaign","09/02/2025, 10:12:26 AM","giving@nebulon-gives.com","oliver.knapp@nebulon.com","Nebulon Gives – Contribution Confirmation Required","Hi,
+Your payroll contribution enrollment is pending confirmation. Confirm your contribution now to avoid removal from the campaign:
+http://nebulon-hr-portal[.]com/gives/confirm?token=Q2X17K4
+Nebulon Gives Desk","phish",1,0,1,1,1,0,4
+"legit82","Employee giving / donations campaign","09/09/2025, 02:21:14 PM","giving@nebulon.com","priya.nair@nebulon.com","Nebulon Gives – Thank You!","Hi Priya,
+Thanks for participating in Nebulon Gives. Attached is a certificate of appreciate for your wonderful donation. 
+Thanks,
+Nebulon Gives Team
+Attachment: ThankYouforYourPledge.pdf","legit",0,1,0,0,0,0,1
+"phish83","IT maintenance / access continuity","10/06/2025, 03:08:46 PM","it-support@nebulon-it.com","control-systems@nebulon.com","Patch Window – SCADA Workstations (Schedule Attached)","Hello Control Systems,
+The SCADA patch schedule is attached. Before the window begins, open the attachment and run the ""pre-check"" to prevent workstation lockout during maintenance.
+IT Support
+Attachment: SCADA_Patch_Window_Schedule_Oct2026.pdf.zip","phish",0,1,0,1,1,0,3
+"legit83","IT maintenance / access continuity","10/07/2025, 03:04:11 PM","internal.it.services@nebulon.com","control-systems@nebulon.com","Patch Window – SCADA Workstations (Schedule Attached)","Hi all,
+We’re applying the monthly patch bundle to SCADA workstations this Friday from 7:00–9:00 PM MDT. If you have a system that must remain online, reply with the hostname and we’ll coordinate an alternate window.
+Thanks,
+IT Services
+Attachment: SCADA_Patch_Window_Schedule_Oct2026.pdf","legit",0,1,1,0,0,0,2
+"phish84","Compliance/policy acknowledgements & surveys","09/23/2025, 09:51:29 AM","compliance@nebulon.compliance-forms.net","safety-audit@nebulon.com","Missing Incident Logs – August","Hi team,
+August incident logs are missing for Sites 11 and 14. Upload files using the secure compliance form:
+http://nebuloncompliance[.]com/safety/incident-logs-upload
+This must be completed by end of week.
+Compliance Operations","phish",1,0,1,1,1,0,4
+"legit84","Compliance/policy acknowledgements & surveys","09/23/2025, 09:47:03 AM","sonal.vyas@nebulon.com","safety-audit@nebulon.com","Missing Incident Logs – August","Team,
+We’re missing August incident logs from Sites 11 and 14. Please upload them by Friday so we can close the monthly audit file. https://nebulon[.]com/incidentlogs?543211
+Thanks,
+Sonal","legit",1,0,1,0,0,0,2
+"legit85","Survey / prize promotion","10/07/2025, 09:14:18 AM","comms@nebulon.com","erica.reynolds@nebulon.com","You’ve Been Selected: Quick Culture Survey (Gift Card Drawing)","Hello,
+You’ve been selected to participate in a short culture survey this week. Participation is optional, and responses are reviewed in aggregate.
+Everyone who completes the survey by Friday will be entered into a random drawing for a gift card.
+Thanks,
+Communications
+Survey can be found here: https://nebulon-surveys[.]com/claim?token=Q2X17K4","legit",1,0,1,0,0,0,2
+"phish85","Survey / prize promotion","10/01/2025, 09:18:52 AM","rewards@survey-prize-center.com","clara.baker@nebulon.com","Gift Card Reward Pending – Verify to Claim","Hi,
+You’ve been selected for a gift card reward. Verify your eligibility now to claim it:
+https://survey-prize-center[.]com/claim?token=Q2X17K4
+This offer expires today.
+Rewards Center","phish",1,0,1,1,1,0,4
+"legit86","Employee giving / donations campaign","10/07/2025, 09:14:18 AM","giving@nebulon.com","all-staff@nebulon.com","Nebulon Gives – Campaign Progress Update","Colleagues,
+Quick update on Nebulon Gives: thank you to everyone who has enrolled so far. We’re tracking steady participation across sites, and every contribution helps support local nonprofit partners.
+If you’d still like to participate, you can enroll through the HR portal at any time during the campaign window. If you’d still like to participate, you can enroll through the HR portal at any time during the campaign window: https://hrportal.nebulon[.]com
+Thank you,
+Nebulon Gives Team","legit",0,0,1,0,0,0,1
+"phish86","Employee giving / donations campaign","10/07/2025, 09:18:52 AM","giving@nebulon-gives.org","all-staff@nebulon.com","Nebulon Gives – Participation Verification Needed","Hello,
+We’re reconciling participation totals for the campaign report. 
+If you enrolled, please provide your employee ID and your per-paycheck contribution amount so we can verify the record https://hrportal[.]com/nebulongives
+Thanks,
+Nebulon Gives Desk","phish",1,0,1,0,1,1,4
+"phish87","Employee wellness challenge","10/14/2025, 09:46:22 AM","wellness@challenge.com","kyra.plotnick@nebulon.com","Wellness Challenge – Weekly Check-In","Hello,
+Your weekly mileage entry is flagged as incomplete. Please upload your mileage here: https://wellnesschallenge[.]com/mileage. Your name, ZIP code, and pin will be required to validate your points.
+Wellness Challenge Desk","phish",0,0,1,0,1,1,3
+"legit87","Employee wellness challenge","10/13/2025, 09:41:58 AM","wellness@nebulon.com","all-staff@nebulon.com","Wellness Challenge – Weekly Check-In","Hi Nebulon Employees,
+Week 2 check-in for the wellness challenge. Make sure you're logging your points: https://nebulon-wellness[.]com/week2challenge?3848743 if you’re participating, remember you can log steps/miles without sharing routes or location.
+Keep it up, and thanks for joining.
+Wellness Team","legit",0,0,1,0,0,0,1
+"phish88","Training & certifications","07/30/2025, 11:13:58 AM","training@nebulon-learning.com","kendra.miles@nebulon.com","Mandatory Training: Export Compliance Refresher","Hello Kendra,
+Your completion record is missing and will be escalated for non-compliance. Open the attached form to acknowledge completion and return it to this email.
+Training Desk
+Attachment: Export_Compliance_Acknowledgement.docm","phish",0,1,0,1,1,0,3
+"legit88","Training & certifications","07/30/2025, 11:09:26 AM","training@nebulon.com","kendra.miles@nebulon.com","Mandatory Training: Export Compliance Refresher","Nebulon Staff,
+This is a reminder that the annual Export Compliance refresher is due by August 9. The training materials are attached.
+If you’ve already completed it, thank you—no further action is needed.
+Thanks,
+Training Team
+Attachment: ExportCompliancePolicy.docx","legit",0,1,1,0,0,0,2
+"legit89","Data privacy / records management","08/06/2025, 02:18:44 PM","records.management@nebulon.com","engineering@nebulon.com","Records Cleanup Reminder – Shared Drive Retention","Hello team,
+Reminder: please review your project folders on the Engineering shared drive and archive or delete non-record materials older than the retention threshold. https://nebulon.sharedrive[.]com/confirm?dept=engineering&token=8F2K19QW
+If you are unsure what qualifies as a record, reply and Records Management will help. 
+Thanks,
+Records Management","legit",1,0,1,0,0,0,2
+"phish89","Data privacy / records management","08/06/2025, 02:23:19 PM","records@nebulon-dataretention.com","engineering@nebulon.com","Records Cleanup Required – Final Notice","Hi team,
+Your shared drive cleanup is overdue and must be completed today to avoid access restrictions. Confirm completion using the secure retention portal:
+https://dataretention[.]com/confirm?dept=engineering&token=8F2K19QW
+Records Desk","phish",1,0,1,1,1,0,4
+"phish90","Data privacy / records management","08/13/2025, 09:10:47 AM","legalhold@nebulon-compliance.com","finance.team@nebulon.com","Legal Hold Notice – Acknowledgement Required","Hello,
+A legal hold is in effect for Project Riverbend. Open the attached acknowledgement form and return it by end of day to avoid access restrictions.
+Legal Hold Desk
+Attachment: LegalHold_Acknowledgement_Form.pdf.exe","phish",0,1,1,1,1,0,4
+"legit90","Data privacy / records management","08/13/2025, 09:06:12 AM","legal.hold@nebulon.com","finance.team@nebulon.com","Legal Hold Notice – Do Not Delete (Project Riverbend)","Finance Team,
+A legal hold is in effect for records related to Project Riverbend. Please do not delete or modify relevant emails, files, or notes until further notice. Addditional details can be found in the attached document.
+If you have questions about what is in scope, reply to this message.
+Thanks,
+Legal Hold Administrator
+Attachment: LegalHold_Notice.pdf","legit",0,0,1,0,0,0,1
+"phish91","Data privacy / records management","08/20/2025, 03:45:33 PM","teams-admin@nebulon.com","project-ridgeview@nebulon.com","Teams Channel Deletion Scheduled – Action Required","Ridgeview Team,
+The Teams channel ""Project Ridgeview"" is scheduled for deletion due to 180 days of inactivity. To prevent deletion, verify the team using this link: https://teams.nebuton.com/Verify/ProjectRidgeView.
+Teams Admin","phish",0,0,1,1,1,1,4
+"phish92","Corporate communications / executive announcements","08/27/2025, 09:06:38 AM","comms@nebulon-leadership.com","all-staff@nebulon.com","Message from Leadership – Required Acknowledgement","Hello,
+A leadership policy update requires acknowledgement today. Please open the attached acknowledgement form and complete the requested fields (name and employee ID) to confirm receipt.
+Send the completed form back to Corporate Communications.
+Corporate Communications
+Attachment: Leadership_Acknowledgement_Form.pdfm","phish",0,1,1,1,1,1,5
+"legit92","Corporate communications / executive announcements","08/27/2025, 09:02:11 AM","comms@nebulon.com","all-staff@nebulon.com","Message from Leadership – Q3 Update","Colleagues,
+Sharing a brief Q3 update from leadership. Thank you for your work this quarter and for supporting your teams through a busy project season.
+More details will be covered in next week’s all-hands.
+Thank you,
+Corporate Communications
+Attachment: NebulonCorpQ3Update.pdf","legit",0,0,1,0,0,0,1
+"legit93","Corporate communications / executive announcements","09/03/2025, 11:18:07 AM","comms@nebulon.com","all-staff@nebulon.com","All-Hands Reminder – Thursday 10:00 AM","Hello team,
+Reminder: the company all-hands is Thursday at 10:00 AM. The agenda will include a Q3 business update and time for Q&A. You can 
+Thanks,
+Corporate Communications
+Attachment: AllHands.ics","legit",0,1,1,0,0,0,2
+"phish93","Corporate communications / executive announcements","09/03/2025, 11:22:46 AM","executive.office@office365.com","all-staff@nebulon.com","All-Hands Reminder – Attendance Confirmation Needed","Hi,
+Leadership is compiling the attendance roster for Thursday’s all-hands. Please reply with your phone number and site location so we can confirm your attendance. You can also confirm your attendance here: https://hrportal.nebulon[.]com/attendance.
+Executive Office","phish",1,0,1,0,1,1,4

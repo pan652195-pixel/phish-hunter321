@@ -1,0 +1,18 @@
+{
+  "id": "conv_0133",
+  "headers": {
+    "from": "wellness@challenge.com",
+    "to": "employee@company.com",
+    "subject": "Wellness Challenge – Weekly Check-In",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYour weekly mileage entry is flagged as incomplete. Please upload your mileage here: https://wellnesschallenge[.]com/mileage. Your name, ZIP code, and pin will be required to validate your points.\nWellness Challenge Desk",
+  "links": [
+    {
+      "original": "https://wellnesschallenge[.]com/mileage.",
+      "resolved": "https://wellnesschallenge[.]com/mileage."
+    }
+  ],
+  "attachments": []
+}

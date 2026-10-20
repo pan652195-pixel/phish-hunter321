@@ -1,0 +1,18 @@
+{
+  "id": "conv_0111",
+  "headers": {
+    "from": "payroll@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Timecard Exception Report – Missing Submissions",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nThe exception report cannot be cleared until you confirm your timekeeping profile. Verify your employee ID using the link below:\nhttp://timekeeping-portal[.]com/verify?token=8F2K19QW\nPayroll",
+  "links": [
+    {
+      "original": "http://timekeeping-portal[.]com/verify?token=8F2K19QW",
+      "resolved": "http://timekeeping-portal[.]com/verify?token=8F2K19QW"
+    }
+  ],
+  "attachments": []
+}

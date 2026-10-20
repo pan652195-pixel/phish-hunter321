@@ -1,0 +1,18 @@
+{
+  "id": "conv_0114",
+  "headers": {
+    "from": "manager.notifications@payroll.com",
+    "to": "employee@company.com",
+    "subject": "Action Needed: Approve Direct Report Timecards",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Daniel,\nDirect report timecards are queued but your manager approval session has expired. Re-authenticate to approve:\nhttps://payrolls[.]com/reauth?token=R4m2T9\nFailure to approve today will delay payroll.\nManager Notifications",
+  "links": [
+    {
+      "original": "https://payrolls[.]com/reauth?token=R4m2T9",
+      "resolved": "https://payrolls[.]com/reauth?token=R4m2T9"
+    }
+  ],
+  "attachments": []
+}

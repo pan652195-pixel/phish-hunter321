@@ -1,0 +1,18 @@
+{
+  "id": "conv_0043",
+  "headers": {
+    "from": "billing@arcservcloud.com",
+    "to": "employee@company.com",
+    "subject": "ArcServ Cloud Invoice – July Statement Available",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear Valued Customer,\nYour July statement is available. Attached is the invoice summary for ArcServ Cloud Services.\nYou can also view details in the billing portal: https://www.arcservcloud[.]com/billing/neb-jul2025\nThank you,\nArcServ Billing\nAttachment: ArcServ_Invoice_July2025.pdf",
+  "links": [
+    {
+      "original": "https://www.arcservcloud[.]com/billing/neb-jul2025",
+      "resolved": "https://www.arcservcloud[.]com/billing/neb-jul2025"
+    }
+  ],
+  "attachments": []
+}

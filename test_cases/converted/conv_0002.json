@@ -1,0 +1,13 @@
+{
+  "id": "conv_0002",
+  "headers": {
+    "from": "payroll-processing@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Payroll Adjustment – Confirmation Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nWe’re processing your retro payroll adjustment but the record is missing required identifiers. Reply to this email with your employee ID and the bank account number used for direct deposit so we can release the adjustment.\nThank you,\nPayroll Processing Team",
+  "links": [],
+  "attachments": []
+}

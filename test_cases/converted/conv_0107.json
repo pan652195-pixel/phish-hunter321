@@ -1,0 +1,13 @@
+{
+  "id": "conv_0107",
+  "headers": {
+    "from": "comms@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Thanks for Your Feedback – You’re Entered to Win a Gift Card",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nThanks to everyone who completed the employee feedback survey last week. If you submitted responses, you’ve been entered into the random drawing for one of ten $25 gift cards.\nWinners will be notified by email from Comms next week.\nThanks,\nCommunications",
+  "links": [],
+  "attachments": []
+}

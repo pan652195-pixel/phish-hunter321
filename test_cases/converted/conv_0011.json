@@ -1,0 +1,13 @@
+{
+  "id": "conv_0011",
+  "headers": {
+    "from": "benefits@nebulon-hrsupport.com",
+    "to": "employee@company.com",
+    "subject": "Benefits Enrollment Reminder (New Hire – 30-Day Window)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Priya,\nYour benefits enrollment is still incomplete. To prevent coverage delays, reply with your full name, date of birth, and home address so we can finish setup on your behalf.\nThank you,\nBenefits Support",
+  "links": [],
+  "attachments": []
+}

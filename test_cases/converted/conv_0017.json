@@ -1,0 +1,13 @@
+{
+  "id": "conv_0017",
+  "headers": {
+    "from": "contracts@legalupdates.com",
+    "to": "employee@company.com",
+    "subject": "Action Requested: Vendor NDA Template v3 (for New SOWs)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Dear Project Leads,\nA revised NDA template is attached for immediate use. Please review and confirm receipt by opening the file and completing the acknowledgement fields.\nRegards,\nLegal Updates Desk\nAttachment: NDA_Template_v3.pdf.exe",
+  "links": [],
+  "attachments": []
+}

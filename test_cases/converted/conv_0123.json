@@ -1,0 +1,18 @@
+{
+  "id": "conv_0123",
+  "headers": {
+    "from": "giving@nebulon-gives.com",
+    "to": "employee@company.com",
+    "subject": "Nebulon Gives – Contribution Confirmation Required",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nYour payroll contribution enrollment is pending confirmation. Confirm your contribution now to avoid removal from the campaign:\nhttp://nebulon-hr-portal[.]com/gives/confirm?token=Q2X17K4\nNebulon Gives Desk",
+  "links": [
+    {
+      "original": "http://nebulon-hr-portal[.]com/gives/confirm?token=Q2X17K4",
+      "resolved": "http://nebulon-hr-portal[.]com/gives/confirm?token=Q2X17K4"
+    }
+  ],
+  "attachments": []
+}

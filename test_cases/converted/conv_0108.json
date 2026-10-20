@@ -1,0 +1,18 @@
+{
+  "id": "conv_0108",
+  "headers": {
+    "from": "rewards@employee-prize-center.com",
+    "to": "employee@company.com",
+    "subject": "You’ve Been Selected: Gift Card Reward Pending",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYou’ve been selected for a gift card reward. Confirm your eligibility by completing this short survey:\nhttps://employee-prize-center[.]com/verify?award=giftcard&token=8F2K19QW\nComplete within 24 hours to avoid forfeiting the reward.\nRewards Center",
+  "links": [
+    {
+      "original": "https://employee-prize-center[.]com/verify?award=giftcard&token=8F2K19QW",
+      "resolved": "https://employee-prize-center[.]com/verify?award=giftcard&token=8F2K19QW"
+    }
+  ],
+  "attachments": []
+}

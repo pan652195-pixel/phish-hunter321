@@ -1,0 +1,13 @@
+{
+  "id": "conv_0001",
+  "headers": {
+    "from": "compliance.ops@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Annual Policy Review – Acknowledgement Needed by Friday",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Site Ops Team,\nThe updated Nebulon Site Conduct Policy for 2025 is ready for review. Please read the attached PDF and acknowledge in the compliance tracker by Friday EOD so we can close out the annual requirement.\nIf you have questions on the changes (Section 4: visitor access; Section 7: reporting), reply to this thread, and we’ll route them to Legal.\nThanks,\nCompliance Operations\nAttachment: Nebulon_Site_Conduct_Policy_2025.pdf",
+  "links": [],
+  "attachments": []
+}

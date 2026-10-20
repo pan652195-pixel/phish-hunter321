@@ -1,0 +1,18 @@
+{
+  "id": "conv_0085",
+  "headers": {
+    "from": "travel@travel-logistics.com",
+    "to": "employee@company.com",
+    "subject": "Calendar Update: Site Visit – Time Change (Mar 3)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Robert,\nYour calendar update is pending approval. Confirm attendance now to avoid automatic cancellation:\nhttps://nebulon-calendar[.]com/confirm?event=site22&token=Q8m2K4\nNebulon Travel Desk",
+  "links": [
+    {
+      "original": "https://nebulon-calendar[.]com/confirm?event=site22&token=Q8m2K4",
+      "resolved": "https://nebulon-calendar[.]com/confirm?event=site22&token=Q8m2K4"
+    }
+  ],
+  "attachments": []
+}

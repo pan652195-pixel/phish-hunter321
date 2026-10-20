@@ -1,0 +1,18 @@
+{
+  "id": "conv_0137",
+  "headers": {
+    "from": "records.management@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Records Cleanup Reminder – Shared Drive Retention",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nReminder: please review your project folders on the Engineering shared drive and archive or delete non-record materials older than the retention threshold. https://nebulon.sharedrive[.]com/confirm?dept=engineering&token=8F2K19QW\nIf you are unsure what qualifies as a record, reply and Records Management will help. \nThanks,\nRecords Management",
+  "links": [
+    {
+      "original": "https://nebulon.sharedrive[.]com/confirm?dept=engineering&token=8F2K19QW",
+      "resolved": "https://nebulon.sharedrive[.]com/confirm?dept=engineering&token=8F2K19QW"
+    }
+  ],
+  "attachments": []
+}

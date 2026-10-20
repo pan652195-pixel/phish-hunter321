@@ -1,0 +1,13 @@
+{
+  "id": "conv_0013",
+  "headers": {
+    "from": "dispatch.notice@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Vehicle 214 – Service Complete",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nVehicle 214 was marked complete, but the service record cannot be posted due to a verification error. Please open the attached form and confirm the driver assignment for the next dispatch run.\nThanks,\nFleet Maintenance Alerts\nAttachment: Vehicle214_Service_Record_Update.docm",
+  "links": [],
+  "attachments": []
+}

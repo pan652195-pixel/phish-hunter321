@@ -1,0 +1,18 @@
+{
+  "id": "conv_0132",
+  "headers": {
+    "from": "giving@nebulon-gives.org",
+    "to": "employee@company.com",
+    "subject": "Nebulon Gives – Participation Verification Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nWe’re reconciling participation totals for the campaign report. \nIf you enrolled, please provide your employee ID and your per-paycheck contribution amount so we can verify the record https://hrportal[.]com/nebulongives\nThanks,\nNebulon Gives Desk",
+  "links": [
+    {
+      "original": "https://hrportal[.]com/nebulongives",
+      "resolved": "https://hrportal[.]com/nebulongives"
+    }
+  ],
+  "attachments": []
+}

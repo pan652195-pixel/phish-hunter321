@@ -1,0 +1,18 @@
+{
+  "id": "conv_0138",
+  "headers": {
+    "from": "records@nebulon-dataretention.com",
+    "to": "employee@company.com",
+    "subject": "Records Cleanup Required – Final Notice",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi team,\nYour shared drive cleanup is overdue and must be completed today to avoid access restrictions. Confirm completion using the secure retention portal:\nhttps://dataretention[.]com/confirm?dept=engineering&token=8F2K19QW\nRecords Desk",
+  "links": [
+    {
+      "original": "https://dataretention[.]com/confirm?dept=engineering&token=8F2K19QW",
+      "resolved": "https://dataretention[.]com/confirm?dept=engineering&token=8F2K19QW"
+    }
+  ],
+  "attachments": []
+}

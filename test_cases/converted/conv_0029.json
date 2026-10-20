@@ -1,0 +1,18 @@
+{
+  "id": "conv_0029",
+  "headers": {
+    "from": "project.controls@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Draft Scope Doc – Comments Requested",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Sarah,\nCan you review the draft scope doc for the Ridgeview controls upgrade and add comments by the end of the day? Review and comment here:\nhttps://nebulon[.]com/doc/review/ridgeview-scope\nThanks,\nProject Controls",
+  "links": [
+    {
+      "original": "https://nebulon[.]com/doc/review/ridgeview-scope",
+      "resolved": "https://nebulon[.]com/doc/review/ridgeview-scope"
+    }
+  ],
+  "attachments": []
+}

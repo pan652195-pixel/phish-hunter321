@@ -1,0 +1,18 @@
+{
+  "id": "conv_0048",
+  "headers": {
+    "from": "security@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Credential Expiration Notice",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Liam,\nYour credentials for the Remote Sensor Portal will expire in 7 days. If you use the portal, please plan to update your credentials during your next sign-in or update them now here: https://security.nebulon[.]com/credential-renewal\nThanks,\nNebulon Security",
+  "links": [
+    {
+      "original": "https://security.nebulon[.]com/credential-renewal",
+      "resolved": "https://security.nebulon[.]com/credential-renewal"
+    }
+  ],
+  "attachments": []
+}

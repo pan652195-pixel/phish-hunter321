@@ -1,0 +1,18 @@
+{
+  "id": "conv_0129",
+  "headers": {
+    "from": "comms@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "You’ve Been Selected: Quick Culture Survey (Gift Card Drawing)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nYou’ve been selected to participate in a short culture survey this week. Participation is optional, and responses are reviewed in aggregate.\nEveryone who completes the survey by Friday will be entered into a random drawing for a gift card.\nThanks,\nCommunications\nSurvey can be found here: https://nebulon-surveys[.]com/claim?token=Q2X17K4",
+  "links": [
+    {
+      "original": "https://nebulon-surveys[.]com/claim?token=Q2X17K4",
+      "resolved": "https://nebulon-surveys[.]com/claim?token=Q2X17K4"
+    }
+  ],
+  "attachments": []
+}

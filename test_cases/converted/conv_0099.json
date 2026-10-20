@@ -1,0 +1,13 @@
+{
+  "id": "conv_0099",
+  "headers": {
+    "from": "security.operations@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "After-Hours Access Request – On-Call Roster Confirmation",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Victor,\nWe received a request to add you to the after-hours access list for Building 12 for this week’s on-call coverage.\nPlease reply with the dates/times you need access (start/end) and your manager’s name so we can route the approval.\nThanks,\nSecurity Operations",
+  "links": [],
+  "attachments": []
+}

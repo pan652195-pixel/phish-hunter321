@@ -1,0 +1,18 @@
+{
+  "id": "conv_0049",
+  "headers": {
+    "from": "credentials@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "ACTION REQUIRED: Credential Expiration Notice",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Liam,\nYour Remote Sensor Portal credentials expire today. Revalidate access here:\nhttp://nebulon[.]com/rsp/reauthenticate\nIT Services",
+  "links": [
+    {
+      "original": "http://nebulon[.]com/rsp/reauthenticate",
+      "resolved": "http://nebulon[.]com/rsp/reauthenticate"
+    }
+  ],
+  "attachments": []
+}

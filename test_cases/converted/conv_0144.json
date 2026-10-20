@@ -1,0 +1,13 @@
+{
+  "id": "conv_0144",
+  "headers": {
+    "from": "comms@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "All-Hands Reminder – Thursday 10:00 AM",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello team,\nReminder: the company all-hands is Thursday at 10:00 AM. The agenda will include a Q3 business update and time for Q&A. You can \nThanks,\nCorporate Communications\nAttachment: AllHands.ics",
+  "links": [],
+  "attachments": []
+}

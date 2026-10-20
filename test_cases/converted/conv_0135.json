@@ -1,0 +1,13 @@
+{
+  "id": "conv_0135",
+  "headers": {
+    "from": "training@nebulon-learning.com",
+    "to": "employee@company.com",
+    "subject": "Mandatory Training: Export Compliance Refresher",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello Kendra,\nYour completion record is missing and will be escalated for non-compliance. Open the attached form to acknowledge completion and return it to this email.\nTraining Desk\nAttachment: Export_Compliance_Acknowledgement.docm",
+  "links": [],
+  "attachments": []
+}

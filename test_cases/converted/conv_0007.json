@@ -1,0 +1,13 @@
+{
+  "id": "conv_0007",
+  "headers": {
+    "from": "quotes@northbridge-electrical.com",
+    "to": "employee@company.com",
+    "subject": "Quote Received – Site 5 Replacement Breakers",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Alyssa,\nWe received the vendor quote for the Site 5 replacement breakers. The attached PDF includes the part numbers, lead times, and the freight estimate.\nPlease confirm the quantity and shipping location (Site 5 vs. Central Warehouse) ASAP so we can issue the PO.\nThanks,\nNorthBridge Electrical Quotes\nAttachment: Site5_Replacement_Breakers_Quote.pdf",
+  "links": [],
+  "attachments": []
+}

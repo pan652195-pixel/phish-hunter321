@@ -1,0 +1,18 @@
+{
+  "id": "conv_0101",
+  "headers": {
+    "from": "giving@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Nebulon Gives: Community, Connection, Compassion",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Colleagues,\nNebulon Gives is officially underway. The campaign runs Jan 12–30 across all Nebulon sites, in partnership with United Way.\nEven a small contribution—such as $1 per paycheck—adds up quickly when thousands of us participate, supporting programs that strengthen our local communities.\nPlease take a moment to enroll through the HR portal when you’re ready: https://hrportal.nebulon[.]com/nebulon-gives\nThank you,\nExecutive Sponsor, Nebulon Gives",
+  "links": [
+    {
+      "original": "https://hrportal.nebulon[.]com/nebulon-gives",
+      "resolved": "https://hrportal.nebulon[.]com/nebulon-gives"
+    }
+  ],
+  "attachments": []
+}

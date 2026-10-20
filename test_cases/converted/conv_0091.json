@@ -1,0 +1,13 @@
+{
+  "id": "conv_0091",
+  "headers": {
+    "from": "visitors@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Visitor Pre-Registration Complete – Calendar Invite Attached",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Jordan,\nYour visitor pre-registration for Contour Energy (2 visitors) is complete for April 4. An updated calendar invite with the check-in location is attached.\nThanks,\nVisitor & Travel Desk\nAttachment: Visitor_PreReg_April4.ics",
+  "links": [],
+  "attachments": []
+}

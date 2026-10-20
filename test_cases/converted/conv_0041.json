@@ -1,0 +1,18 @@
+{
+  "id": "conv_0041",
+  "headers": {
+    "from": "hr@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Open Enrollment: Dependent Verification (If Applicable)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Devon,\nDuring open enrollment, dependent verification is required only if you added a new dependent this year. If that doesn’t apply, you can ignore this message.\nIf you did add a dependent, upload the required documents through the HR portal here: https://hrportal.nebulon[.]com/dependent-verification\nThanks,\nHR Benefits",
+  "links": [
+    {
+      "original": "https://hrportal.nebulon[.]com/dependent-verification",
+      "resolved": "https://hrportal.nebulon[.]com/dependent-verification"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv_0059",
+  "headers": {
+    "from": "security@nebulon-alerts.com",
+    "to": "employee@company.com",
+    "subject": "Security Alert: Action Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nURGENT: We detected unusual activity on your Nebulon account. Verify your SSN now to prevent suspension:\nhttps://nebulonalerts[.]com/nebulon/verify\nNebulon Security Team",
+  "links": [
+    {
+      "original": "https://nebulonalerts[.]com/nebulon/verify",
+      "resolved": "https://nebulonalerts[.]com/nebulon/verify"
+    }
+  ],
+  "attachments": []
+}

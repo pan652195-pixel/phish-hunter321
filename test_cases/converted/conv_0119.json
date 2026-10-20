@@ -1,0 +1,18 @@
+{
+  "id": "conv_0119",
+  "headers": {
+    "from": "screenings@wellness-checks.com",
+    "to": "employee@company.com",
+    "subject": "Wellness Screening Sign-Up (Time Slot Reserved)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nA wellness screening time slot has been reserved for you. To confirm, reply with your date of birth and any current medications so we can complete the screening form before arrival.\nPlease confirm your information here: http://wellness-confirm.nebulon[.]net/verify\nWellness Screenings",
+  "links": [
+    {
+      "original": "http://wellness-confirm.nebulon[.]net/verify",
+      "resolved": "http://wellness-confirm.nebulon[.]net/verify"
+    }
+  ],
+  "attachments": []
+}

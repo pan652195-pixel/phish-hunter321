@@ -1,0 +1,13 @@
+{
+  "id": "conv_0058",
+  "headers": {
+    "from": "messaging.admin@service-nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Mailbox Rule Created",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Sophia,\nA new inbox rule was created in your mailbox at 12:18 PM MDT.\nIf you made this change, no action is needed. If you did not, please contact the Service Desk.\nThanks,\nMessaging Administration",
+  "links": [],
+  "attachments": []
+}

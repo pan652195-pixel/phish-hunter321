@@ -1,0 +1,18 @@
+{
+  "id": "conv_0131",
+  "headers": {
+    "from": "giving@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Nebulon Gives – Campaign Progress Update",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Colleagues,\nQuick update on Nebulon Gives: thank you to everyone who has enrolled so far. We’re tracking steady participation across sites, and every contribution helps support local nonprofit partners.\nIf you’d still like to participate, you can enroll through the HR portal at any time during the campaign window. If you’d still like to participate, you can enroll through the HR portal at any time during the campaign window: https://hrportal.nebulon[.]com\nThank you,\nNebulon Gives Team",
+  "links": [
+    {
+      "original": "https://hrportal.nebulon[.]com",
+      "resolved": "https://hrportal.nebulon[.]com"
+    }
+  ],
+  "attachments": []
+}

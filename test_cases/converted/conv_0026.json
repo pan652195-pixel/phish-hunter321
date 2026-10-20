@@ -1,0 +1,13 @@
+{
+  "id": "conv_0026",
+  "headers": {
+    "from": "internal.it.services@nebulon.com",
+    "to": "employee@company.com",
+    "subject": "Password Reset Requested",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Noah,\nA password reset was requested for your Nebulon account at 2:04 PM MDT.\nIf you initiated this request, please complete it from the workstation sign-in screen. If you did not, contact the Service Desk.\nThanks,\nIT Services",
+  "links": [],
+  "attachments": []
+}

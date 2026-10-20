@@ -1,0 +1,18 @@
+{
+  "id": "conv_0145",
+  "headers": {
+    "from": "executive.office@office365.com",
+    "to": "employee@company.com",
+    "subject": "All-Hands Reminder – Attendance Confirmation Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi,\nLeadership is compiling the attendance roster for Thursday’s all-hands. Please reply with your phone number and site location so we can confirm your attendance. You can also confirm your attendance here: https://hrportal.nebulon[.]com/attendance.\nExecutive Office",
+  "links": [
+    {
+      "original": "https://hrportal.nebulon[.]com/attendance.",
+      "resolved": "https://hrportal.nebulon[.]com/attendance."
+    }
+  ],
+  "attachments": []
+}

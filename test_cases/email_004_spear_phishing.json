@@ -1,0 +1,15 @@
+{
+  "id": "email_004",
+  "headers": {
+    "from": "ceo.assistant@partner-portal.io",
+    "to": "finance@company.com",
+    "subject": "紧急：本周五前完成一笔供应商付款（保密）",
+    "spf_result": "pass",
+    "dkim_result": "pass"
+  },
+  "body_text": "王会计您好：附件是新签的供应商合同，请在本周五下班前完成首付款审批，金额较大请单独处理，不要走群发流程。详见附件 contract_signed.pdf。",
+  "links": [],
+  "attachments": [
+    {"filename": "contract_signed.pdf", "hash": "deadbeef1234"}
+  ]
+}

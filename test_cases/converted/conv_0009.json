@@ -1,0 +1,18 @@
+{
+  "id": "conv_0009",
+  "headers": {
+    "from": "billing@contourenergy.con",
+    "to": "employee@company.com",
+    "subject": "Invoice 77104 – Approval Requested (Contour Energy)",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nPlease review the attached invoice for February site maintenance. To avoid late fees, confirm approval today using the payment portal:\nhttp://nebulon[.]com/contour/approve-invoice/77104\nIf you have questions, reply to this email.\nThanks,\nBilling Team\nAttachment: ContourEnergy_Invoice_77104.pdf",
+  "links": [
+    {
+      "original": "http://nebulon[.]com/contour/approve-invoice/77104",
+      "resolved": "http://nebulon[.]com/contour/approve-invoice/77104"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conv_0073",
+  "headers": {
+    "from": "procurement.requests@nebul0n.com",
+    "to": "employee@company.com",
+    "subject": "PO NBL-11390 – Signed Copy Needed",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hi Cameron,\nPlease review the attached signed PO and confirm today so we can release it for invoicing.\nThanks,\nProcurement\nAttachment: PO_NBL-11390_Signed_Vendor_Agreement.pdf.exe",
+  "links": [],
+  "attachments": []
+}

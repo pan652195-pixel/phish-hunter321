@@ -1,0 +1,13 @@
+{
+  "id": "conv_0142",
+  "headers": {
+    "from": "comms@nebulon-leadership.com",
+    "to": "employee@company.com",
+    "subject": "Message from Leadership – Required Acknowledgement",
+    "spf_result": "fail",
+    "dkim_result": "none"
+  },
+  "body_text": "Hello,\nA leadership policy update requires acknowledgement today. Please open the attached acknowledgement form and complete the requested fields (name and employee ID) to confirm receipt.\nSend the completed form back to Corporate Communications.\nCorporate Communications\nAttachment: Leadership_Acknowledgement_Form.pdfm",
+  "links": [],
+  "attachments": []
+}
